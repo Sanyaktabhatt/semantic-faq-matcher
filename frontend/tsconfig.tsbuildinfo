@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/modecomparison.tsx","./src/components/shared.tsx","./src/pages/about.tsx","./src/pages/evaluation.tsx","./src/pages/insights.tsx","./src/pages/library.tsx","./src/pages/search.tsx","./src/pages/semanticmap.tsx","./src/services/api.ts","./src/types/index.ts"],"version":"5.7.3"}

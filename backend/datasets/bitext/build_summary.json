@@ -1,0 +1,14 @@
+{
+  "source": "bitext.csv",
+  "source_sha256": "6f81102b0100b97b8468eb04368033a23206bf1fde9d53500d5806ec1001a434",
+  "source_rows": 26872,
+  "seed": 47,
+  "faqs": 27,
+  "categories": 11,
+  "alternates": 270,
+  "dev_queries": 540,
+  "test_queries": 23020,
+  "ambiguous_dropped": 0,
+  "duplicates_dropped": 3042,
+  "indexed_copies_dropped": 0
+}

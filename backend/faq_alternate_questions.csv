@@ -1,0 +1,1036 @@
+faq_id,alternate_question
+ORD001,Where can I follow my order's progress?
+ORD001,I want to see where my order is
+ORD001,Order tracking
+ORD002,Where is my package at the moment?
+ORD002,What is the current location of my delivery?
+ORD002,Has my package left the warehouse yet?
+ORD003,Where do I get the tracking ID for my shipment?
+ORD003,What is my tracking number?
+ORD003,I need the courier reference number
+ORD004,My tracking has been stuck for days
+ORD004,The tracking information is not updating
+ORD004,Why does tracking still show the same status?
+ORD005,The order is marked as delivered but I never got it
+ORD005,Tracking says delivered but there is no package
+ORD005,I did not get my order even though it shows delivered
+ORD006,How can I track a guest order?
+ORD006,I ordered without signing up. How do I track it?
+ORD006,Track order without logging in
+ORD007,How do I see the status of my order?
+ORD007,What is happening with my order?
+ORD007,Check order status
+ORD008,What does the shipped status mean?
+ORD008,My order shows shipped. What does that mean?
+ORD008,Meaning of dispatched status
+ORD009,My order shows out for delivery. When will it arrive?
+ORD009,What does the out for delivery status mean?
+ORD009,Is my package arriving today if it says out for delivery?
+ORD010,How do I get notifications about my order?
+ORD010,Can you send me shipping updates by SMS or email?
+ORD010,I want alerts when my package moves
+RET001,How do I send an item back?
+RET001,I want to return my order
+RET001,Start a return
+RET002,Can I return something I purchased?
+RET002,Is it possible to give back an item I ordered?
+RET002,Can I take back my purchase?
+RET003,What is the return window?
+RET003,How long after delivery can I return something?
+RET003,Is there a time limit for returns?
+RET004,Can I return an item I have already opened?
+RET004,I unboxed the product. Can I still return it?
+RET004,Are used or unsealed items returnable?
+RET005,Do I need the original box to return an item?
+RET005,I threw away the packaging. Can I still return it?
+RET005,Does a return need the original packing?
+RET006,Where do I get a return shipping label?
+RET006,How do I get the return label?
+RET006,I need to print the label for my return
+RET007,Can I swap an item for a different one?
+RET007,I want to exchange my product for another size
+RET007,How do I exchange a product?
+RET008,Why was my return declined?
+RET008,My return was not accepted
+RET008,The return got refused. What now?
+RET009,How do I return something I received as a gift?
+RET009,Can a gift be returned without the receipt?
+RET009,Someone gave me this as a present. Can I return it?
+RET010,Is this item eligible for return?
+RET010,How can I tell if a product can be returned?
+RET010,Is this product non-returnable?
+REF001,How many days does a refund take?
+REF001,What is the refund processing time?
+REF001,How quickly will I get refunded?
+REF002,When will I get my money back?
+REF002,When will the refund reach my account?
+REF002,When do I receive the refunded amount?
+REF003,How do I check the status of my refund?
+REF003,Track my refund
+REF003,Has my refund been processed?
+REF004,My refund was approved but the money has not arrived
+REF004,Refund shows completed but I have not got it
+REF004,I have not received my approved refund
+REF005,Will the refund go back to my card?
+REF005,Which account will my refund be sent to?
+REF005,Does the refund return to the same payment method?
+REF006,How do I withdraw my refund request?
+REF006,I want to cancel the refund I requested
+REF006,Can I stop a refund that is in progress?
+REF007,Why is my refund less than what I paid?
+REF007,My refund amount is wrong
+REF007,Why was money deducted from my refund?
+REF008,Will I be refunded if I cancel my order?
+REF008,I cancelled my order. When do I get my money?
+REF008,Refund for a cancelled purchase
+REF009,My refund is taking too long
+REF009,The refund is late. What should I do?
+REF009,I am still waiting for my refund after the promised date
+REF010,Is the delivery fee refunded?
+REF010,Will I get my shipping cost back?
+REF010,Are shipping fees included in the refund?
+PAY001,What payment options do you accept?
+PAY001,How can I pay for my order?
+PAY001,Which ways of paying are available?
+PAY002,Why did my payment fail?
+PAY002,My card was declined at checkout
+PAY002,Payment not going through
+PAY003,Do you accept credit cards?
+PAY003,Can I pay with Visa or Mastercard?
+PAY003,Is credit card payment allowed?
+PAY004,Do you take debit cards?
+PAY004,Is paying by debit card possible?
+PAY004,Can I use my bank card at checkout?
+PAY005,Can I pay in cash on delivery?
+PAY005,Do you offer COD?
+PAY005,Is pay on delivery an option?
+PAY006,I was charged two times for the same order
+PAY006,There is a duplicate charge on my card
+PAY006,Why was I billed twice?
+PAY007,Where do I enter a discount code?
+PAY007,How do I use a coupon?
+PAY007,How can I add a voucher code at checkout?
+PAY008,My discount code is invalid
+PAY008,The promo code is not being accepted
+PAY008,Why does my voucher not apply?
+PAY009,Can I switch my payment method after ordering?
+PAY009,I want to pay with a different card for an order I already placed
+PAY009,How do I update the payment method on my order?
+PAY010,Is it safe to save my card details?
+PAY010,How do you protect my card information?
+PAY010,Are my payment details secure?
+ACC001,How do I sign up?
+ACC001,How can I register for an account?
+ACC001,I want to make a new account
+ACC002,How do I reset my password?
+ACC002,I cannot remember my password
+ACC002,Forgot password
+ACC003,How do I update my email address?
+ACC003,I want to use a different email for my account
+ACC003,Change account email
+ACC004,How can I change my mobile number?
+ACC004,I got a new phone number. How do I update it?
+ACC004,Update contact number on my profile
+ACC005,I am unable to sign in
+ACC005,Login is not working
+ACC005,Why can't I access my account?
+ACC006,How do I close my account?
+ACC006,I want to permanently remove my account
+ACC006,Delete my profile and data
+ACC007,How do I update my saved address?
+ACC007,I moved house. How do I change my address?
+ACC007,Edit my shipping address in my profile
+ACC008,Can I save multiple addresses?
+ACC008,How do I add another shipping address?
+ACC008,Can I keep a home and work address in my account?
+ACC009,How do I stop marketing emails?
+ACC009,I want to stop getting newsletters
+ACC009,Opt out of promotional messages
+ACC010,I am not getting the OTP
+ACC010,The verification code never arrived
+ACC010,Did not get the code to verify my account
+DEL001,When will my order arrive?
+DEL001,How many days does shipping take?
+DEL001,What is the expected delivery time?
+DEL002,I need to update the shipping address on an order I placed
+DEL002,Can I send my order to a different address after checkout?
+DEL002,Change delivery address for an existing order
+DEL003,Can I pick a delivery slot?
+DEL003,Can I schedule my delivery for a specific day?
+DEL003,Is it possible to choose when my package is delivered?
+DEL004,What if nobody is home when the courier comes?
+DEL004,I missed the delivery. What happens now?
+DEL004,The driver came when I was out
+DEL005,My order is delayed
+DEL005,The delivery has not come by the expected date
+DEL005,Why is my package running late?
+DEL006,Do you ship to my location?
+DEL006,Is delivery available in my city?
+DEL006,Can you deliver to my pincode?
+DEL007,How do I add delivery notes for the courier?
+DEL007,Can I tell the driver to leave it with my neighbour?
+DEL007,Update instructions for the delivery person
+DEL008,Will I be notified when my package is delivered?
+DEL008,Do you send a message when the order arrives?
+DEL008,Do I get an alert on delivery?
+DEL009,Why did the delivery fail?
+DEL009,The courier could not deliver my parcel
+DEL009,Delivery attempt failed. What should I do?
+DEL010,Can I pick up my order from a store?
+DEL010,Is there a click and collect option?
+DEL010,Can I collect my parcel from a pickup point?
+PRD001,Where can I see the product details?
+PRD001,How do I find the technical specs of an item?
+PRD001,Where are the product features listed?
+PRD002,Does this come in a different size?
+PRD002,Is a bigger or smaller size available?
+PRD002,Are other sizes of this item available?
+PRD003,Is this item available right now?
+PRD003,How do I know if a product is out of stock?
+PRD003,Check product availability
+PRD004,When will this item be back in stock?
+PRD004,Will an out of stock product be available again?
+PRD004,Can I get notified when this is restocked?
+PRD005,How can I compare items side by side?
+PRD005,Which of these two products is better for me?
+PRD005,Help me compare similar products
+PRD006,Is there a warranty on this item?
+PRD006,Does this product have a guarantee?
+PRD006,What warranty does this product have?
+PRD007,What comes in the package?
+PRD007,What accessories are included with this product?
+PRD007,What is in the box?
+PRD008,Is this compatible with my phone?
+PRD008,Will this accessory work with my device?
+PRD008,How do I check product compatibility?
+PRD009,Can someone recommend a product for me?
+PRD009,I need advice on which product to buy
+PRD009,Help me choose the right item
+PRD010,Does the product look exactly like the photo?
+PRD010,Are the colours in the pictures accurate?
+PRD010,The item looks different from the image
+SUP001,How do I get in touch with customer service?
+SUP001,What is your support phone number or email?
+SUP001,I want to contact the support team
+SUP002,What are your support hours?
+SUP002,What time does customer care open?
+SUP002,Is support open on weekends?
+SUP003,How do I file a complaint?
+SUP003,I want to make a complaint about my experience
+SUP003,Where can I submit a complaint?
+SUP004,How do I see the status of my support request?
+SUP004,What is happening with my ticket?
+SUP004,Track my complaint ticket
+SUP005,Nobody has answered my support ticket
+SUP005,Support has not responded to my request
+SUP005,I am still waiting for support to get back to me
+SUP006,What details do I need when I contact support?
+SUP006,What should I tell customer service in my message?
+SUP006,What do I need ready before contacting support?
+SUP007,Can I talk to a real person?
+SUP007,"I want to speak to a live representative, not a bot"
+SUP007,Connect me to a human
+SUP008,My item arrived damaged
+SUP008,The product I received is broken
+SUP008,How do I report a defective item that arrived?
+SUP009,An item is missing from my order
+SUP009,My package did not contain everything I ordered
+SUP009,Part of my order is not in the box
+SUP010,Where is the help section?
+SUP010,How do I find the FAQ or help page?
+SUP010,Where can I find support articles?
+SEC001,How do I protect my account?
+SEC001,Tips for keeping my account safe
+SEC001,How can I improve my account security?
+SEC002,I think my account has been hacked
+SEC002,Someone else logged into my account
+SEC002,I see activity on my account that I did not do
+SEC003,How do I update my password?
+SEC003,I want to set a new password for my account
+SEC003,Change my login password
+SEC004,Is it safe to give my OTP to customer service?
+SEC004,Support asked for my verification code. Should I give it?
+SEC004,Should I share my one-time code with an agent?
+SEC005,How do I manage my privacy settings?
+SEC005,Where can I control how my data is used?
+SEC005,How do I change my data sharing preferences?
+SEC006,I received a phishing email
+SEC006,How do I report a fake email pretending to be you?
+SEC006,I got a suspicious message asking for my details
+SEC007,How do I delete a saved card?
+SEC007,Remove my stored card details
+SEC007,How do I remove a saved card from my account?
+SEC008,Why do I need to verify my identity?
+SEC008,Why is the site asking me to confirm who I am?
+SEC008,Why am I asked for ID verification?
+GEN001,How does this website work?
+GEN001,I am new here. How do I shop on the site?
+GEN001,How do I navigate the store?
+GEN002,Where can I find your policies?
+GEN002,Where are the shipping and return policies?
+GEN002,I want to read your store rules
+GEN003,How do I write a review for a product?
+GEN003,Where can I rate an item?
+GEN003,How do I post a product review?
+GEN004,How do I change a review I posted?
+GEN004,Can I update or delete my review?
+GEN004,I want to edit my product rating
+GEN005,The product description is wrong
+GEN005,How do I flag a listing with incorrect information?
+GEN005,A product page has wrong details
+GEN006,Is there a discount for new customers?
+GEN006,Do first orders get a special offer?
+GEN006,Do you have a welcome discount?
+GEN007,What deals are available right now?
+GEN007,Where can I see the latest sales?
+GEN007,Are there any promotions today?
+GEN008,How do I share feedback about the service?
+GEN008,I want to tell you about my experience
+GEN008,Where do I submit general feedback?
+GEN009,Where are the terms of service?
+GEN009,I want to read the terms and conditions
+GEN009,Where can I see the terms of use?
+GEN010,How can I hear about new arrivals?
+GEN010,How do I subscribe to the newsletter?
+GEN010,Can I get alerts for new launches?
+ORD011,I want to cancel my order
+ORD011,Can I cancel a purchase I just made?
+ORD011,How do I call off an order?
+ORD012,Can I modify my order after placing it?
+ORD012,I forgot to add something to my order
+ORD012,How do I edit the items in my order?
+ORD013,I never got the email confirming my order
+ORD013,Where is my order confirmation?
+ORD013,Did my order go through? I have no confirmation
+ORD014,How do I view my order history?
+ORD014,Where can I find previous purchases?
+ORD014,Show me my old orders
+ORD015,My order was cancelled without my request
+ORD015,Why did you cancel my order?
+ORD015,Who cancelled my order?
+ORD016,How do I change how many items I ordered?
+ORD016,I ordered the wrong quantity
+ORD016,Can I order more units of the same item in an existing order?
+RET011,Is return shipping free?
+RET011,Who pays the postage for returns?
+RET011,Will I be charged for sending the item back?
+RET012,I got a different product than I ordered
+RET012,You sent me the wrong item
+RET012,The item delivered does not match my order
+RET013,What is the status of my return?
+RET013,Has my return been received?
+RET013,Where is my returned package?
+REF011,Can I get store credit instead of money back?
+REF011,Can my refund go to my wallet balance?
+REF011,I would like credit for a future purchase instead of a refund
+REF012,I was only refunded part of the amount
+REF012,Why didn't I get a full refund?
+REF012,Why was my refund partial?
+PAY011,Do you offer EMI?
+PAY011,Can I split my payment into instalments?
+PAY011,Is buy now pay later available?
+PAY012,Where can I get a bill for my purchase?
+PAY012,I need a tax invoice for my order
+PAY012,How do I get a receipt for my order?
+PAY013,My bank account was debited but the order failed
+PAY013,Payment taken but no order was created
+PAY013,I paid but there is no order in my account
+PAY014,Do you accept foreign cards?
+PAY014,Can I pay in dollars or euros?
+PAY014,Can I use a card issued in another country?
+ACC011,How do I update my name in my profile?
+ACC011,My name is spelled wrong on my account
+ACC011,Edit the name on my profile
+ACC012,My account has been blocked after wrong attempts
+ACC012,It says my account is locked
+ACC012,How do I regain access to a locked account?
+ACC013,Can I log in using my Google account?
+ACC013,Is there a sign in with Apple option?
+ACC013,Can I use social login?
+DEL011,Do you deliver abroad?
+DEL011,Can I order from another country?
+DEL011,Do you ship overseas?
+DEL012,What are the delivery charges?
+DEL012,Is shipping free?
+DEL012,How much will delivery cost me?
+DEL013,Can I get my order delivered today?
+DEL013,Do you have next-day delivery?
+DEL013,Is there a faster shipping option?
+DEL014,I only received part of my order in one box
+DEL014,Why are my items coming in separate shipments?
+DEL014,Why did my items arrive on different days?
+PRD011,Is there a size chart?
+PRD011,Which size should I buy?
+PRD011,How do I choose the correct fit?
+PRD012,The price dropped after I bought it. Can I get the difference?
+PRD012,Do you match competitor prices?
+PRD012,Is there price protection?
+SUP011,Can I chat with support online?
+SUP011,Do you have a chat option?
+SUP011,Where is the live chat?
+SUP012,My complaint has not been resolved. Who can I go to?
+SUP012,I want to take my issue to a manager
+SUP012,How do I take my complaint further?
+SEC009,How do I enable 2FA?
+SEC009,Can I add an extra security step to my login?
+SEC009,Set up two-step verification
+SEC010,I got a call asking for my card details. Is it you?
+SEC010,Is this phone call from your company real?
+SEC010,Someone is pretending to be customer support on the phone
+GEN011,Do you have an app for my phone?
+GEN011,Where can I download your app?
+GEN011,Is the store available on Android or iPhone?
+GEN012,Do you offer wholesale prices?
+GEN012,Can I place a bulk order for my company?
+GEN012,Do you have business accounts?
+GFT001,Can I purchase a gift card for someone?
+GFT001,I want to send a gift voucher to a friend
+GFT001,Where can I buy an e-gift card?
+GFT002,How do I use a gift card?
+GFT002,Where do I enter my gift card code?
+GFT002,How can I apply a gift voucher to my order?
+GFT003,How much is left on my gift card?
+GFT003,Check gift card balance
+GFT003,How do I see the remaining value of my gift voucher?
+GFT004,Is there an expiry date on gift cards?
+GFT004,How long is a gift card valid?
+GFT004,When does my gift voucher expire?
+GFT005,My gift card is not being accepted
+GFT005,The gift card code says invalid
+GFT005,I cannot redeem my gift voucher
+GFT006,Can I combine gift cards?
+GFT006,How do I use two gift cards together?
+GFT006,Can I apply multiple gift vouchers at checkout?
+MEM001,What do I get with a membership?
+MEM001,Is the membership worth it?
+MEM001,What are the perks of becoming a member?
+MEM002,How do I end my membership?
+MEM002,I want to stop my subscription plan
+MEM002,Unsubscribe from the paid membership
+MEM003,Can I try the membership for free?
+MEM003,Do you have a trial period for the subscription?
+MEM003,Is there a free trial?
+MEM004,Why was my card charged for renewal?
+MEM004,I was billed for a membership I did not renew
+MEM004,Why did my subscription renew automatically?
+MEM005,Can I get my subscription money back?
+MEM005,I want a refund for my membership
+MEM005,Is the membership fee refundable?
+MEM006,How do I stop automatic renewal?
+MEM006,I don't want my membership to renew
+MEM006,Disable auto renew for my subscription
+WAR001,How do I claim warranty?
+WAR001,My product is under warranty and has a fault
+WAR001,How do I start a warranty request?
+WAR002,My device is broken. Can you fix it?
+WAR002,How do I get my product repaired?
+WAR002,The item has stopped working after a few months
+WAR003,How many years of warranty does this have?
+WAR003,How long does the warranty last?
+WAR003,Is my product still covered by warranty?
+WAR004,Do you sell extended warranty plans?
+WAR004,Can I get extra protection coverage?
+WAR004,How do I add a protection plan to my purchase?
+WAR005,Where can I get my product serviced?
+WAR005,Find a repair centre near me
+WAR005,Is there an authorised service center near me?
+RWD001,How do I collect loyalty points?
+RWD001,How many points do I get per purchase?
+RWD001,How can I get rewards when I shop?
+RWD002,How do I redeem my points?
+RWD002,Can I use my loyalty points to pay?
+RWD002,Apply reward points to my order
+RWD003,When do my points expire?
+RWD003,Will I lose my loyalty points?
+RWD003,Is there an expiry on rewards?
+RWD004,My points are missing
+RWD004,I did not get points for my last order
+RWD004,Why are my loyalty points not showing?
+RWD005,How do I refer a friend?
+RWD005,What do I get for inviting friends?
+RWD005,Where is my referral code?
+ORD017,The carrier website says my tracking number does not exist
+ORD017,Why is my tracking ID not recognised?
+ORD017,Tracking number not found
+ORD018,Tracking says my parcel is going back to the seller
+ORD018,Why is my shipment on its way back to the warehouse?
+ORD018,Package returning to sender
+ORD019,Is it possible to switch my order to express delivery now?
+ORD019,I want quicker shipping on an order I already placed
+ORD019,Upgrade shipping speed after checkout
+ORD020,Is there a quick way to buy the same item again?
+ORD020,I want to order the same thing I purchased last time
+ORD020,Buy again from past order
+RET014,Do I have to send back the whole order or can I return a single product?
+RET014,I only want to return part of my order
+RET014,Return one item from a multi-item order
+RET015,Will someone collect the item I am returning?
+RET015,I want the courier to come and get my return
+RET015,Return pickup or drop-off options
+RET016,Are discounted products eligible for return?
+RET016,I bought something in a clearance sale and want to send it back
+RET016,Returning sale items
+RET017,Can I still return something after the return period has ended?
+RET017,I am too late to send my item back
+RET017,Return window expired
+REF013,Where does my refund go if I used a gift card for the purchase?
+REF013,I paid using gift card balance and returned the item
+REF013,Refund for an order paid by gift card
+REF014,What happens to my refund if my old bank card no longer works?
+REF014,I cancelled the card I paid with and am waiting for a refund
+REF014,Refund to an expired card
+REF015,Where will my money go if I paid cash when the order arrived?
+REF015,I paid cash on delivery and need my refund
+REF015,COD order refund
+REF016,Will I get my promo code back if I return the product?
+REF016,I used a discount code and now I am returning the item
+REF016,Coupon after a return
+PAY015,How do I get a tax invoice with my business name on it?
+PAY015,I need my GST or VAT number on the bill
+PAY015,Business details on invoice
+PAY016,Why does my bank ask me to approve the payment in its app?
+PAY016,Checkout keeps sending me to a bank security page
+PAY016,Card authentication at checkout
+PAY017,Is it possible to pay for one order using two different cards?
+PAY017,I want to pay part with one card and the rest with another
+PAY017,Pay with multiple cards
+PAY018,Why did the price go up when I reached the payment page?
+PAY018,The final amount is more than the price shown on the product
+PAY018,Extra charges at checkout
+ACC014,Where can I find the products I saved for later?
+ACC014,I want to keep a list of items I like
+ACC014,Wishlist
+ACC015,Can I delete the products I recently viewed?
+ACC015,I want to remove my past searches
+ACC015,Clear search history
+ACC016,Is it possible to combine my two customer accounts into one?
+ACC016,I accidentally created a second account
+ACC016,Merge duplicate accounts
+ACC017,Can I get my closed account back?
+ACC017,I deactivated my account and want to use it again
+ACC017,Restore deactivated account
+DEL015,Is it okay if a neighbour or family member collects my parcel?
+DEL015,My roommate will be home to accept the delivery
+DEL015,Someone else receiving my package
+DEL016,Is it possible to ship my order to a locker?
+DEL016,I want my package sent to my post office box
+DEL016,Parcel locker delivery
+DEL017,Do the shipping and billing addresses have to match?
+DEL017,I want to pay with my card but ship to my office
+DEL017,Different billing and shipping address
+DEL018,Will my parcel arrive on a Saturday or Sunday?
+DEL018,I need to know if deliveries happen during holidays
+DEL018,Weekend delivery
+PRD013,How do I know the item is not a fake?
+PRD013,I want to be sure the product is authentic
+PRD013,Original brand products
+PRD016,Why can't I add more of this item to my cart?
+PRD016,I want to buy a large quantity of one product
+PRD016,Maximum quantity per order
+SUP013,Is it possible for an agent to phone me back?
+SUP013,I would like support to call me instead
+SUP013,Request a call back
+SUP014,Can I get help in a language other than English?
+SUP014,I want to speak to support in my own language
+SUP014,Support language options
+SUP015,My ticket was closed but the problem is not fixed
+SUP015,How do I restart a resolved support case?
+SUP015,Reopen ticket
+SUP016,The app keeps crashing. Where do I report it?
+SUP016,I found a bug on the website
+SUP016,Website not working properly
+SEC011,Can I download all the information you store about me?
+SEC011,I want to request my personal data
+SEC011,Personal data export
+SEC012,Can I log out from every phone and computer at once?
+SEC012,I left my account signed in on a shared computer
+SEC012,Sign out everywhere
+SEC013,Where can I change which cookies the website uses?
+SEC013,I want to turn off tracking cookies
+SEC013,Cookie settings
+SEC014,Is my information sold or passed on to other companies?
+SEC014,I want to know who gets access to my details
+SEC014,Data sharing with partners
+GEN013,Can I view the site in a different language?
+GEN013,I want the app to show in my native language
+GEN013,Switch language
+GEN015,Where did the products I added to my basket go?
+GEN015,My shopping cart is suddenly empty
+GEN015,Cart items missing
+GFT007,Is it possible to get money back for my unused gift card?
+GFT007,I want to cash out my gift card balance
+GFT007,Gift card cash refund
+GFT008,Can a missing gift card be replaced?
+GFT008,Someone took my gift card
+GFT008,Lost gift card
+GFT009,Is it possible to send a digital gift card on someone's birthday?
+GFT009,"I want the e-gift card emailed later, not right now"
+GFT009,Schedule gift card delivery
+GFT010,Why hasn't my friend got the digital gift card I sent?
+GFT010,The gift card email never arrived for the person I bought it for
+GFT010,Resend e-gift card
+MEM007,Can I move my membership from monthly to yearly billing?
+MEM007,I want to change my subscription plan
+MEM007,Change membership plan
+MEM008,Can someone in my household use my membership benefits?
+MEM008,I want my partner to get my membership perks
+MEM008,Family membership sharing
+MEM009,Where can I change the payment method for my subscription?
+MEM009,My membership card expired and I need to add a new one
+MEM009,Update membership payment
+MEM010,I am a member but still paid for shipping
+MEM010,Why didn't I get my member discount?
+MEM010,Membership perks not working
+WAR006,Is a cracked screen covered under warranty?
+WAR006,I dropped my device. Will the warranty pay for it?
+WAR006,Warranty for accidental damage
+WAR007,Is my product repair finished yet?
+WAR007,I want an update on my device that is being fixed
+WAR007,Repair status
+WAR008,Can I ask for a new unit rather than having mine fixed?
+WAR008,I would prefer a replacement over a repair
+WAR008,Warranty replacement
+WAR009,Does fixing my device at a local shop cancel the warranty?
+WAR009,I got my phone repaired somewhere else
+WAR009,Third-party repair and warranty
+RWD006,Is it possible to give my points to a friend?
+RWD006,I want to move my points to my family member's account
+RWD006,Transfer points
+RWD007,Do I lose the points I earned when I send something back?
+RWD007,I returned an order and my points changed
+RWD007,Points after a return
+RWD008,Is it possible to redeem points along with a promo code?
+RWD008,I want to use my points and a discount code together
+RWD008,Points with coupon
+RWD009,How many reward points do I have?
+RWD009,I want to check how my points were earned and spent
+RWD009,Points balance
+APP001,Why can't I download the shopping app on my device?
+APP001,The app keeps failing to install
+APP001,App installation error
+APP002,How do I stay signed in on the mobile app?
+APP002,The app signs me out every time I open it
+APP002,App keeps asking me to log in
+APP003,What should I do if the app closes by itself?
+APP003,The app freezes whenever I open a product
+APP003,App not responding
+APP004,How can I stop the app sending me alerts?
+APP004,I am not getting any pop-up alerts from the app
+APP004,Manage app notifications
+APP005,Where can I get the newest version of the app?
+APP005,The app says I need to update it
+APP005,Update shopping app
+APP006,Are app prices cheaper than on the website?
+APP006,I saw a different price for the same item on the app
+APP006,App versus website price
+APP007,Can I use my phone camera to look up a product?
+APP007,The barcode scanner in the app is not working
+APP007,Scan product barcode
+APP008,Does the shopping app work offline?
+APP008,The app will not load anything on mobile data
+APP008,App not loading without Wi-Fi
+TEC001,What are the first steps to get my new gadget working?
+TEC001,I just unboxed my device and need help setting it up
+TEC001,New device setup
+TEC002,Why won't my electronic product power on?
+TEC002,I pressed the power button and nothing happens
+TEC002,Device not switching on
+TEC003,Why won't my device pair with my phone?
+TEC003,I can't get my gadget onto my home Wi-Fi
+TEC003,Bluetooth pairing help
+TEC004,Where can I download the latest firmware for my product?
+TEC004,My device says a software update is available
+TEC004,Firmware update
+TEC005,Why won't my product charge when I plug it in?
+TEC005,The battery is not filling up even though it is plugged in
+TEC005,Charging problem
+TEC006,How do I get a copy of the instruction booklet?
+TEC006,I lost the manual that came with my device
+TEC006,Download user guide
+TEC007,How can I restore my gadget to its original settings?
+TEC007,I want to wipe my device and start fresh
+TEC007,Factory reset
+TEC008,How do I get the licence code for my software purchase?
+TEC008,My product key was not accepted during activation
+TEC008,Software activation code
+INS001,How do I put together the furniture I ordered?
+INS001,I need the step-by-step guide to build my item
+INS001,Assembly guide
+INS002,How can I get replacement fittings for my furniture?
+INS002,My flat-pack arrived without all the hardware
+INS002,Missing screws
+INS003,Can someone come to install my appliance?
+INS003,I want to arrange a technician to set up my purchase
+INS003,Book installation
+INS004,How much does professional installation cost?
+INS004,I want to know if installation is included in the price
+INS004,Installation fee
+INS005,Can I change the date of my technician visit?
+INS005,I won't be home for the installation and need another time
+INS005,Move installation appointment
+INS006,Do you provide a wall-mounting service for televisions?
+INS006,I need my new TV fixed to the wall
+INS006,TV wall mount
+INS007,Will the delivery team bring my fridge inside and connect it?
+INS007,I bought a washing machine and want to know how delivery works
+INS007,Large appliance delivery
+PRE001,Can I reserve an item before it is released?
+PRE001,I want to order something that is not out yet
+PRE001,Pre-order an item
+PRE002,Do I pay for a pre-order now or later?
+PRE002,I want to know when the money for my pre-order is taken
+PRE002,Pre-order payment timing
+PRE003,What if my pre-ordered item is delayed?
+PRE003,The launch date for my pre-order got pushed back
+PRE003,Pre-order date changed
+PRE004,Can I cancel an item I pre-ordered?
+PRE004,I no longer want my pre-order
+PRE004,Cancel pre-order
+PRE005,Is there a price guarantee on pre-orders?
+PRE005,The pre-order price went down after I ordered
+PRE005,Pre-order price drop
+PRE006,Will my pre-ordered item arrive on launch day?
+PRE006,I want to know when my pre-order will reach me
+PRE006,Pre-order delivery date
+SUB001,Can I set up regular automatic deliveries of an item I buy often?
+SUB001,I want my household essentials delivered every month automatically
+SUB001,Recurring delivery order
+SUB002,Can I get my subscription items delivered less often?
+SUB002,I need my repeat order to come every two months instead
+SUB002,Change delivery frequency
+SUB003,Can I pause just one of my scheduled deliveries?
+SUB003,I have enough stock and don't need the next shipment
+SUB003,Skip next delivery
+SUB004,How can I stop my recurring product deliveries?
+SUB004,I want to end my automatic repeat order
+SUB004,Stop auto-delivery
+SUB005,Is there a discount for setting up auto-delivery?
+SUB005,I want to know what I save by subscribing to an item
+SUB005,Subscription discount
+SUB006,Can I swap a product in my recurring delivery?
+SUB006,I want to add another item to my scheduled delivery
+SUB006,Edit subscription items
+ACS001,Is the site compatible with assistive technology like VoiceOver?
+ACS001,I use a screen reader and want to know if I can shop here
+ACS001,Screen reader support
+ACS002,Is there assisted ordering for customers with accessibility needs?
+ACS002,I find it hard to use the website and need help ordering
+ACS002,Help placing an order
+ACS003,How do I request large print or accessible versions of my documents?
+ACS003,I need my order paperwork in a format my screen reader can read
+ACS003,Accessible document formats
+ACS004,Can I reach customer service through a text relay service?
+ACS004,I can't make phone calls and need another way to contact support
+ACS004,Support for hearing impaired
+ACS005,Where can I tell you about a page that is hard to use with assistive tools?
+ACS005,A button on your site is not readable by my screen reader
+ACS005,Report accessibility issue
+ACC018,How do I send my saved items list to someone else?
+ACC018,I want my family to see the things I've saved
+ACC018,Share wishlist link
+ACC019,Is it possible to buy something without registering?
+ACC019,I'd rather not sign up just to place one order
+ACC019,Guest checkout
+ACC020,How can I switch my account to a different country store?
+ACC020,I moved abroad and need to update my shopping region
+ACC020,Change account region
+ACS006,Is there a way to enlarge the font on your site?
+ACS006,The text on the pages is too small for me to read
+ACS006,High contrast mode
+ACS007,Can a delivery person carry my order into my home because I use a wheelchair?
+ACS007,I have trouble lifting heavy boxes and need help at the door
+ACS007,Assisted delivery for disabilities
+ACS008,Are subtitles available on the videos on product pages?
+ACS008,I can't hear the product demo videos and need text instead
+ACS008,Video captions
+APP009,How do I enable Face ID or Touch ID login in the app?
+APP009,I don't want to type my password every time I open the app
+APP009,Biometric login
+APP010,Do I have to let the app use my location?
+APP010,The app keeps asking for my GPS permission
+APP010,Location permission
+APP011,How do I switch the app to a dark theme?
+APP011,The app screen is too bright at night
+APP011,Dark mode setting
+DEL019,Will the courier ask for my signature or identification?
+DEL019,The driver wants proof of ID before handing over the parcel
+DEL019,Signature required delivery
+GEN016,Where do I post a question about an item I'm interested in?
+GEN016,I want to know more about a product before I order it
+GEN016,Product questions and answers
+GEN017,What should I do if a product review looks fake?
+GEN017,I think some of the ratings on this item are not genuine
+GEN017,Flag suspicious review
+GEN018,Why is the Add to Cart button not working?
+GEN018,Nothing happens when I try to put this product in my basket
+GEN018,Cannot add to cart
+GFT011,Is it possible to add more money to an existing gift card?
+GFT011,I want to put extra credit on the gift card I already have
+GFT011,Reload gift card
+GFT012,How do I include a note with the digital gift card I send?
+GFT012,I want to write a birthday message on the e-gift card
+GFT012,E-gift card message
+GFT013,What can't I pay for using a gift card?
+GFT013,Checkout won't let me use my gift card on this item
+GFT013,Gift card restrictions
+INS008,How do I get my home ready for the installation visit?
+INS008,The installer is coming tomorrow and I'm not sure what to do beforehand
+INS008,Installation preparation checklist
+INS009,How much time should I set aside for the technician's visit?
+INS009,I need to know how long the installer will be at my place
+INS009,Installation duration
+INS010,Who is responsible if the installer damaged my wall or floor?
+INS010,The technician scratched my new appliance while fitting it
+INS010,Damage caused by installer
+MEM011,Is there a way to put my membership on hold for a while?
+MEM011,I won't be shopping for a few months and want to freeze my plan
+MEM011,Pause membership
+MEM012,Do you offer cheaper membership for students?
+MEM012,I'm at university and looking for a membership discount
+MEM012,Student membership
+MEM013,How do I restart a membership I cancelled before?
+MEM013,I ended my plan last year and want to sign up again
+MEM013,Rejoin membership
+ORD021,Is it possible to merge my orders so they arrive together?
+ORD021,I placed two orders and want them sent in one box
+ORD021,Combine orders
+ORD022,What happens if I accidentally ordered the same item two times?
+ORD022,I hit the order button twice and now have a duplicate order
+ORD022,Duplicate order
+ORD023,I forgot to use my promo code at checkout. Can it be added now?
+ORD023,I just realised I didn't enter my discount code on my order
+ORD023,Add coupon after ordering
+ORD024,Why hasn't my order shipped yet?
+ORD024,My order hasn't moved past the processing stage
+ORD024,Order not dispatched
+ORD025,How do I find out which delivery company has my parcel?
+ORD025,I need to know the shipping carrier for my package
+ORD025,Courier name for my order
+ORD026,Why does my tracking say there is a shipment exception?
+ORD026,The tracking status changed to exception and I don't know what that means
+ORD026,Delivery exception status
+PAY019,How do I store my card details for future purchases?
+PAY019,I don't want to type my card number every time I order
+PAY019,Save payment card
+PAY020,Is it possible for a friend to pay for what's in my cart?
+PAY020,My parents want to pay for my order using their card
+PAY020,Pay on behalf of someone
+PAY021,Why does my order say pending payment verification?
+PAY021,My purchase is held while they check my payment
+PAY021,Payment under review
+PRD017,How should I clean or wash an item I bought?
+PRD017,I need to know how to look after this product properly
+PRD017,Product care guide
+PRD018,Is this item brand new or reconditioned?
+PRD018,I want to make sure I'm not buying a used or open-box product
+PRD018,Product condition
+PRD019,Is this toy appropriate for a three-year-old?
+PRD019,I'm buying for a young child and need to know the age rating
+PRD019,Age suitability
+PRE007,What happens if my cart has a pre-order item and regular items?
+PRE007,I want to buy a release item along with things that are already available
+PRE007,Mixed pre-order cart
+PRE008,How do I update the card on my pre-order?
+PRE008,My bank sent me a new card and I have a pre-order waiting
+PRE008,Pre-order payment card expired
+PRE009,Will I definitely get the item I pre-ordered?
+PRE009,I'm worried my pre-order will be cancelled because of low supply
+PRE009,Pre-order guarantee
+REF017,Do I have to send the product back to be refunded?
+REF017,The item arrived broken and returning it seems pointless
+REF017,Refund without return
+REF018,What happens to my EMI plan when I return something?
+REF018,I bought this on monthly payments and now need a refund
+REF018,Instalment refund
+REF019,Will I get my express delivery fee back if the order arrived late?
+REF019,My package came days after the promised date and I want money back
+REF019,Compensation for delayed parcel
+RET018,Is it possible to drop off my online purchase at a shop?
+RET018,I'd rather return it in person at a nearby store
+RET018,In-store return
+RET019,How do returns work for products sold by another seller?
+RET019,The item was shipped by an outside vendor and I want to send it back
+RET019,Third-party seller return
+RET020,What happens if I put the wrong product in my return parcel?
+RET020,I accidentally returned something I meant to keep
+RET020,Returned the wrong product by mistake
+RWD010,How do I move up to a higher rewards level?
+RWD010,I want to reach gold status in the loyalty programme
+RWD010,Rewards tier levels
+RWD011,How can I sign up for the loyalty programme?
+RWD011,I'd like to start collecting points from now on
+RWD011,Join rewards
+RWD012,Are there ways to get bonus points without buying something?
+RWD012,I want to collect extra points by doing reviews or surveys
+RWD012,Bonus points activities
+SEC015,Can I stop you from using my activity to target ads?
+SEC015,I don't want suggestions based on what I browse
+SEC015,Disable personalised ads
+SEC016,Why did I get an order email for a purchase I never made?
+SEC016,There's an order on my account that I don't recognise
+SEC016,Unknown order on my account
+SEC017,Is this online shop pretending to be your store?
+SEC017,I found a page using your brand that looks like a scam
+SEC017,Fake website check
+SUB007,Will my auto-delivery still arrive if the product is unavailable?
+SUB007,My regular delivery item is sold out this month
+SUB007,Subscription item out of stock
+SUB008,Is the subscription price locked in?
+SUB008,The cost of my repeat delivery went up
+SUB008,Subscription price change
+SUB009,Where do I update the shipping address for my auto-delivery?
+SUB009,I moved house and need my recurring order sent somewhere else
+SUB009,Auto-delivery address change
+SUP017,How do I save the conversation I had with a support agent?
+SUP017,I need a record of what the chat agent told me
+SUP017,Chat transcript
+SUP018,Is it possible to reach your help team on Twitter or Facebook?
+SUP018,I want to message support through social media instead
+SUP018,Social media support
+SUP019,Will your support team assist with an item purchased elsewhere?
+SUP019,I didn't buy this from you but I need help with it
+SUP019,Help for non-store purchase
+TEC009,Why is my gadget overheating?
+TEC009,My new laptop gets really warm after a short time
+TEC009,Device overheating
+TEC010,How can I move my photos and contacts to my new phone?
+TEC010,I want everything from my old tablet copied over
+TEC010,Data migration to new device
+TEC011,Why won't my screen react when I tap it?
+TEC011,The buttons on my gadget do nothing when pressed
+TEC011,Unresponsive touchscreen
+WAR010,Is the warranty valid without the original receipt?
+WAR010,I can't find the bill for my product but it needs repair
+WAR010,Warranty without receipt
+WAR011,Can the new owner use the warranty on a product I passed on?
+WAR011,I received this item as a hand-me-down and want to know if it's still covered
+WAR011,Warranty transfer
+WAR012,Do I have to pay postage to send my item for warranty repair?
+WAR012,The repair centre wants me to post the product to them
+WAR012,Repair shipping cost
+INT001,Are there import fees when ordering from another country?
+INT001,I'm worried about extra taxes on my overseas order
+INT001,Import duty on foreign orders
+INT002,Who is responsible for paying the customs fees on my parcel?
+INT002,The courier wants me to pay a duty fee before handing over my package
+INT002,Who pays customs charges
+INT003,Why is my overseas shipment stuck in customs clearance?
+INT003,Tracking says my package is waiting at customs
+INT003,Parcel delayed at customs
+INT004,Can I send back an order that was shipped abroad?
+INT004,I live overseas and need to return something
+INT004,Returning an international order
+INT005,Why is this product not available for delivery to my country?
+INT005,Checkout says this item can't be sent to where I live
+INT005,Item restricted for my country
+INT006,What currency is used when I order from abroad?
+INT006,I want to know if I'll be billed in my local money or the store's currency
+INT006,Billing currency for overseas orders
+INT007,Where can I follow my shipment while it travels to another country?
+INT007,My international delivery tracking stopped updating after it left the country
+INT007,Tracking an overseas shipment
+INT008,What paperwork does customs need for my order?
+INT008,The carrier asked me for a tax ID to clear my parcel
+INT008,Customs paperwork for my parcel
+PRO001,When is the next major sale event?
+PRO001,I want to know when the next big discount season starts
+PRO001,Upcoming sale dates
+PRO002,Why did the lightning deal disappear before I checked out?
+PRO002,The limited-time deal ran out while it was still in my basket
+PRO002,Flash deal sold out
+PRO003,Will I get the discount if I bought something right before the sale began?
+PRO003,I ordered yesterday and today it's on sale
+PRO003,Sale started after my purchase
+PRO004,Is it possible to stack two discount offers together?
+PRO004,I want to use two promotions at once but only one works
+PRO004,Stacking discounts
+PRO005,Why didn't I receive the free item that came with the promotion?
+PRO005,The bonus gift from the offer isn't in my package
+PRO005,Missing free gift
+PRO006,What are the rules and restrictions for a special offer?
+PRO006,I want to check the fine print before using a deal
+PRO006,Promotion terms and conditions
+PRO007,What happens if I ordered something during a pricing mistake?
+PRO007,My order was cancelled because the price was a mistake
+PRO007,Pricing error on the website
+PRO008,Does a discount code work on reduced-price products?
+PRO008,My voucher won't apply to the clearance item in my cart
+PRO008,Coupon on discounted items
+PUP001,How many days do I have to collect my package from the collection point?
+PUP001,I can't get to the parcel shop straight away
+PUP001,Pickup point holding time
+PUP002,What should I show when picking up my order from a collection point?
+PUP002,I'm going to the pickup counter and want to know what to take
+PUP002,Requirements to collect a parcel
+PUP003,Why won't the parcel locker open with my code?
+PUP003,I typed in my PIN but the locker door stays shut
+PUP003,Locker code invalid
+PUP004,What can I do if the collection point is shut when I arrive?
+PUP004,I went to get my parcel but the shop was closed
+PUP004,Pickup location closed
+PUP005,How do I choose a different collection location for my order?
+PUP005,I picked the wrong parcel shop and want to switch
+PUP005,Change collection point
+PUP006,What happens to my money if I miss the pickup deadline?
+PUP006,I forgot to collect my package and now it's going back
+PUP006,Uncollected parcel refund
+DIG001,How do I access a digital item I just bought?
+DIG001,I paid for a download but can't see where to get it
+DIG001,Location of my downloads
+DIG002,What should I do if the link to download my file no longer works?
+DIG002,The download email link says it has expired
+DIG002,Expired download link
+DIG003,How many downloads am I allowed for a file I bought?
+DIG003,It says I've reached my maximum number of downloads
+DIG003,Download limit
+DIG004,Is it possible to return an e-book or software download for my money back?
+DIG004,I bought a digital item by mistake and want a refund
+DIG004,Refund on digital purchases
+DIG005,Will this e-book work on my tablet or e-reader?
+DIG005,I'm not sure my reading device supports the e-book file
+DIG005,E-book format compatibility
+DIG006,Why won't my purchased video or online course load?
+DIG006,The content I paid for to watch online keeps showing an error
+DIG006,Online access not working
+DIG007,Am I allowed to give a copy of my e-book or download to a friend?
+DIG007,I want my family to use the digital content I bought
+DIG007,Sharing digital items
+DIG008,How can I get my past downloads on my new laptop or phone?
+DIG008,I got a new phone and need my purchased content back
+DIG008,Redownload on new device
+SAF001,Is there a list of products that are under recall?
+SAF001,I want to know if my item is part of a safety recall
+SAF001,Product recall check
+SAF002,How do I get a refund or replacement for a recalled item?
+SAF002,I just found out my product is being recalled
+SAF002,Recalled item next steps
+SAF003,How can I tell if an item is safety certified?
+SAF003,I need to know if this product passed safety testing
+SAF003,Product safety certification
+SAF004,Does this product contain any allergens such as nuts or latex?
+SAF004,I want to see what this item is made of before I buy
+SAF004,Allergen and material details
+SAF005,Where can I report an item that overheated or caused an injury?
+SAF005,I think the product I received is dangerous
+SAF005,Report unsafe product
+SAF006,Why can't an item with a battery be sent by express shipping?
+SAF006,My order with flammable items has fewer delivery options
+SAF006,Hazardous item shipping
+GOR001,Can I ship a present directly to a friend's home?
+GOR001,I want to buy something and have it delivered to my mum
+GOR001,Send order to gift recipient
+GOR002,How do I include a note for the person receiving my gift?
+GOR002,I want to write a short message to go with the present
+GOR002,Gift message
+GOR003,Will the recipient see how much I paid for their present?
+GOR003,I don't want the price showing in the gift parcel
+GOR003,Hide price on gift
+GOR004,Where can I print a receipt without prices for a present?
+GOR004,I need a gift receipt to put in with the present
+GOR004,Gift receipt
+GOR005,How can I schedule a present to be delivered on a certain day?
+GOR005,I need my gift to arrive before an anniversary
+GOR005,Gift delivery by a date
+GOR006,How can my gift recipient swap the item for another version?
+GOR006,My friend wants to change the present I bought them for a different size
+GOR006,Exchange a received gift

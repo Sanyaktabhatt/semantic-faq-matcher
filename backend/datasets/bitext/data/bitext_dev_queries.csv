@@ -1,0 +1,541 @@
+user_query,expected_faq_id
+help cnceling order 48213,CANCEL_ORDER
+I no longer want order 48213,CANCEL_ORDER
+could ya help me cancel order 48213,CANCEL_ORDER
+is it possible to cancel purchase 48213 ?,CANCEL_ORDER
+would you give me information about cancelling orders?,CANCEL_ORDER
+I need to cancel purchase 48213,CANCEL_ORDER
+could you help me cancelling purchase 48213?,CANCEL_ORDER
+I would like to cancel purchase 48213,CANCEL_ORDER
+"I purchased some articles, cancel order 48213",CANCEL_ORDER
+assistance cancelling purchase 48213,CANCEL_ORDER
+I have a probllem with canceling order 48213,CANCEL_ORDER
+canceling purchase 48213,CANCEL_ORDER
+i dont want this artilce cancel order 48213,CANCEL_ORDER
+problem witth cancelling order 48213,CANCEL_ORDER
+can you help me to cancel order 48213?,CANCEL_ORDER
+i want assistance canceling order 48213,CANCEL_ORDER
+i cannot poay for purchase 48213,CANCEL_ORDER
+want assistance cancelling order 48213,CANCEL_ORDER
+I need help with cancelling order 48213,CANCEL_ORDER
+i have a provlem with cancelling order 48213,CANCEL_ORDER
+problem with correcting purchase 48213,CHANGE_ORDER
+swap some products of order 48213,CHANGE_ORDER
+I need help with adding a producft to order 48213,CHANGE_ORDER
+I need help with changing order 48213,CHANGE_ORDER
+"I have to change some articles of order 48213, help me",CHANGE_ORDER
+I have got to correct purchase 48213,CHANGE_ORDER
+i need help to switch several products of order 48213,CHANGE_ORDER
+help updating purchase 48213,CHANGE_ORDER
+question about changing purchaes 48213,CHANGE_ORDER
+I want assistance to change purchase 48213,CHANGE_ORDER
+I need to remove an article from purchase 48213,CHANGE_ORDER
+I have to edit order 48213,CHANGE_ORDER
+how do I edit order 48213?,CHANGE_ORDER
+can I change an article of purchase 48213?,CHANGE_ORDER
+"I want to switch an item of order 48213, how can I do it?",CHANGE_ORDER
+I want help modifying order 48213,CHANGE_ORDER
+add some items to purchase 48213,CHANGE_ORDER
+"I made a mistake, I have got to modify purchase 48213",CHANGE_ORDER
+"I missed an item in purchase 48213, I need help adding it",CHANGE_ORDER
+want help to change something of order 48213,CHANGE_ORDER
+I want information about a delivery address correction,CHANGE_SHIPPING_ADDRESS
+"my delivery address changed, help me update it",CHANGE_SHIPPING_ADDRESS
+wanna know more about a delivery address correction,CHANGE_SHIPPING_ADDRESS
+can ya help me update my delivery address,CHANGE_SHIPPING_ADDRESS
+problem updating delivery address,CHANGE_SHIPPING_ADDRESS
+"the damn shipping address has changed, can I correct it?",CHANGE_SHIPPING_ADDRESS
+problem changing address,CHANGE_SHIPPING_ADDRESS
+I submitted a wrong shipping address,CHANGE_SHIPPING_ADDRESS
+there is a problem trying to edit my address,CHANGE_SHIPPING_ADDRESS
+I have to modify my delivery address,CHANGE_SHIPPING_ADDRESS
+help trying to edit the deliveyr address,CHANGE_SHIPPING_ADDRESS
+i need help trying to change the address,CHANGE_SHIPPING_ADDRESS
+want assistance updating my address,CHANGE_SHIPPING_ADDRESS
+i have issues modifying the address,CHANGE_SHIPPING_ADDRESS
+I need information about a delivery address update,CHANGE_SHIPPING_ADDRESS
+"I have got to correct the delivery address, how to do it?",CHANGE_SHIPPING_ADDRESS
+"I have to edit the address, I need assistance",CHANGE_SHIPPING_ADDRESS
+what do I have to do to change my delivery address?,CHANGE_SHIPPING_ADDRESS
+I want supports changing my delivery address,CHANGE_SHIPPING_ADDRESS
+I need help trying to edit the shipping address,CHANGE_SHIPPING_ADDRESS
+I want help seeing the cancellation charge,CHECK_CANCELLATION_FEE
+i need help seeing the cancellation fee,CHECK_CANCELLATION_FEE
+"I want to see the withdrawal fees, how can I do it?",CHECK_CANCELLATION_FEE
+i try to check the early exit penalties,CHECK_CANCELLATION_FEE
+is it possible to check the cancellation penalty?,CHECK_CANCELLATION_FEE
+were can I check the early termination penalty?,CHECK_CANCELLATION_FEE
+assistance seeing the termination charge,CHECK_CANCELLATION_FEE
+I don't know what I have to do to see the early exit charge,CHECK_CANCELLATION_FEE
+i need assistance to see the early termination penalty,CHECK_CANCELLATION_FEE
+can you help me check the termination penalty?,CHECK_CANCELLATION_FEE
+help me check the terminatio charges,CHECK_CANCELLATION_FEE
+need help checking the early termination fees,CHECK_CANCELLATION_FEE
+I'd like tro check the withdrawal fees,CHECK_CANCELLATION_FEE
+i have to see the early exit chrge can i get some help,CHECK_CANCELLATION_FEE
+I don't know what I have to do to see the cancellation fees,CHECK_CANCELLATION_FEE
+help me to check the termination fees,CHECK_CANCELLATION_FEE
+I'm trying to see the cancellation fee,CHECK_CANCELLATION_FEE
+help checking the termmination fees,CHECK_CANCELLATION_FEE
+can you help me seeing the cancellation charges?,CHECK_CANCELLATION_FEE
+need assistance checking the early termination fee,CHECK_CANCELLATION_FEE
+could uhelp me see my goddamn invoikces from Alex Morgan,CHECK_INVOICE
+where do i locate my invoices from Alex Morgan,CHECK_INVOICE
+what do i need to do to see the invoice #37777,CHECK_INVOICE
+look for bill #00108,CHECK_INVOICE
+need to look for the bill #85632 coyld ya help me,CHECK_INVOICE
+i do not know how to look for the invoice #85632,CHECK_INVOICE
+is it possible to take a quick look at my invoice #37777,CHECK_INVOICE
+i need help taking a quick look at the bill #37777,CHECK_INVOICE
+i hsve to locate invoice #00108 help me,CHECK_INVOICE
+can i givea quick look at the bill from Alex Morgan,CHECK_INVOICE
+need to see my damn bill from Alex Morgan how to do it,CHECK_INVOICE
+I want assistance to locate bill #00108,CHECK_INVOICE
+seeing biols from Alex Morgan,CHECK_INVOICE
+assistance giving a quick look at my bill from Alex Morgan,CHECK_INVOICE
+seeing invoice #37777,CHECK_INVOICE
+can you help me take a quick look at the invoice #85632?,CHECK_INVOICE
+I want to look for my bill #12588,CHECK_INVOICE
+where do I see my invoices from Alex Morgan?,CHECK_INVOICE
+I have got to look for my fucking invoices from Alex Morgan,CHECK_INVOICE
+I don't know what to do to find my invoice from Alex Morgan,CHECK_INVOICE
+"I have to se what payment methods you accept, I need help",CHECK_PAYMENT_METHODS
+how to list your bloody accepted payment methods?,CHECK_PAYMENT_METHODS
+help me check the allowed payment methods,CHECK_PAYMENT_METHODS
+can ya help me to see what payment option are allowed,CHECK_PAYMENT_METHODS
+I want help checking the payment modalities,CHECK_PAYMENT_METHODS
+I try to check the payment modalities,CHECK_PAYMENT_METHODS
+how to see what payment methods are available,CHECK_PAYMENT_METHODS
+help me to see what payment payment modalities are allowed,CHECK_PAYMENT_METHODS
+I need assistance checking your available payment modalities,CHECK_PAYMENT_METHODS
+can you show me what damn payment methods are allowed?,CHECK_PAYMENT_METHODS
+tell me what payment options are available,CHECK_PAYMENT_METHODS
+help me to list ur available payment options,CHECK_PAYMENT_METHODS
+I try to check what payment payment modalities are accepted,CHECK_PAYMENT_METHODS
+I need help to see the available payment options,CHECK_PAYMENT_METHODS
+I don't know what I have to do to list the payment methods,CHECK_PAYMENT_METHODS
+assistance to list the payment options,CHECK_PAYMENT_METHODS
+can i pay witj visa,CHECK_PAYMENT_METHODS
+need help to check ur accepted payment modalities,CHECK_PAYMENT_METHODS
+want help seeing ur accepted payment metjods,CHECK_PAYMENT_METHODS
+wanna see ur accepted payment options can ya help me,CHECK_PAYMENT_METHODS
+i need help to check in which cases can i ask for refunds,CHECK_REFUND_POLICY
+I would like to see in which cases can I ask for refunds,CHECK_REFUND_POLICY
+i need help to see in what situationw can i ask for refunds,CHECK_REFUND_POLICY
+check under what circumstances can i request refunds,CHECK_REFUND_POLICY
+show me under whcih circumstances can i ask to be refunded,CHECK_REFUND_POLICY
+could you show me in which cases can I ask for a refund?,CHECK_REFUND_POLICY
+I need assistance to check your reimbursement policy,CHECK_REFUND_POLICY
+help me to check in what cases can i request a refund,CHECK_REFUND_POLICY
+could I check in which cases can I ask for my money back?,CHECK_REFUND_POLICY
+i dont know what i need to do to see ur reimbursement policy,CHECK_REFUND_POLICY
+help to see in what cases can I ask to be reimbursed,CHECK_REFUND_POLICY
+I don't know what to do to check your fucking refund policy,CHECK_REFUND_POLICY
+"I have got to see how long refunds usually take, I need help",CHECK_REFUND_POLICY
+wanna check how long reimbursenents take how to do it,CHECK_REFUND_POLICY
+I am trying to see in what cases can I ask for refunds,CHECK_REFUND_POLICY
+help checking in what cases can I request to be reimbursed,CHECK_REFUND_POLICY
+can ya help me see u refund policy,CHECK_REFUND_POLICY
+I need help to see in which situations can I request refunds,CHECK_REFUND_POLICY
+want assistance checking your reimbursement plicy,CHECK_REFUND_POLICY
+i have to check how long reufnds take how to do it,CHECK_REFUND_POLICY
+could you help me to file a damn consumer complaint?,COMPLAINT
+I want assistance filing a customer claim,COMPLAINT
+need to file a bloody consumer reclamation how can i do it,COMPLAINT
+how to make a consumer claim against ur company,COMPLAINT
+I do not know what I have to do to file a claim,COMPLAINT
+I need to lodge a claim against your organization,COMPLAINT
+I want help to lodge a claim against your company,COMPLAINT
+I am calling to make an customer claim against your company,COMPLAINT
+how to make an reclamation against your company?,COMPLAINT
+I don't know how I could make a claim,COMPLAINT
+want assistance to make a reclamation against ur business,COMPLAINT
+where to make a customer claim?,COMPLAINT
+I have got to file a reclamation,COMPLAINT
+help lodging a consumer claim,COMPLAINT
+want assistance to make a reclamation against your business,COMPLAINT
+could I make a customer complaint against your business?,COMPLAINT
+I'm unhzppy with ur work make a reclamation,COMPLAINT
+can uhelp me lodge a customer complaint,COMPLAINT
+what do i have to do to make a consumer claim,COMPLAINT
+I need to lodge a customer claim against your business,COMPLAINT
+"I need to call customer assistance, how could I do it?",CONTACT_CUSTOMER_SERVICE
+what is ur customer support mail,CONTACT_CUSTOMER_SERVICE
+I'm trying to see what hours i can call customer service,CONTACT_CUSTOMER_SERVICE
+what is your customer service phone number?,CONTACT_CUSTOMER_SERVICE
+help me to see at what time I can reach customer assistance,CONTACT_CUSTOMER_SERVICE
+I need help to speak with customer assistance,CONTACT_CUSTOMER_SERVICE
+help to get in touch with customer service,CONTACT_CUSTOMER_SERVICE
+I try to talk to customer support,CONTACT_CUSTOMER_SERVICE
+"I have got to call customer support, how could I do it?",CONTACT_CUSTOMER_SERVICE
+help me check what hours i can call customer assistancr,CONTACT_CUSTOMER_SERVICE
+what do I need to do to speak to customer service?,CONTACT_CUSTOMER_SERVICE
+help me calling customer service,CONTACT_CUSTOMER_SERVICE
+help checking what hours I can call customer service,CONTACT_CUSTOMER_SERVICE
+I am trying to see what hours customer service available is,CONTACT_CUSTOMER_SERVICE
+assistance to contact goddamn customer support,CONTACT_CUSTOMER_SERVICE
+I try to check what hours customer assistance available is,CONTACT_CUSTOMER_SERVICE
+I don't know what I have to do to talk to customer service,CONTACT_CUSTOMER_SERVICE
+help to see what hours I can contact customer support,CONTACT_CUSTOMER_SERVICE
+can ya help me speak wih customer assistance,CONTACT_CUSTOMER_SERVICE
+help to check what hours customer assistance available is,CONTACT_CUSTOMER_SERVICE
+i do not knw how to talk to somebody,CONTACT_HUMAN_AGENT
+I do not know what todo to chat with a live agent,CONTACT_HUMAN_AGENT
+I need to talk to a operator,CONTACT_HUMAN_AGENT
+i dont understand a word ya say how to chat with a person,CONTACT_HUMAN_AGENT
+"I do not understand you, help me speaking with an agent",CONTACT_HUMAN_AGENT
+can i talk to an agent,CONTACT_HUMAN_AGENT
+i do not know how to speak with a live agent,CONTACT_HUMAN_AGENT
+i dont know what i have to do to speak to an operator,CONTACT_HUMAN_AGENT
+can uhelp me to contact somebody,CONTACT_HUMAN_AGENT
+"I can't understand you, assistance speaking to an assistant",CONTACT_HUMAN_AGENT
+I need assistance to contact a human agent,CONTACT_HUMAN_AGENT
+I have got to speak to a person,CONTACT_HUMAN_AGENT
+is it possible to talk with an agent?,CONTACT_HUMAN_AGENT
+can ya help me speaking with an assistant,CONTACT_HUMAN_AGENT
+what do I need to do to chat with an assistant?,CONTACT_HUMAN_AGENT
+i do not know what i need to do to chat with a live agent,CONTACT_HUMAN_AGENT
+help me to contact somebody,CONTACT_HUMAN_AGENT
+I do not know what to do to contact a damn operator,CONTACT_HUMAN_AGENT
+I have got to contact a human agent,CONTACT_HUMAN_AGENT
+speak to assistant,CONTACT_HUMAN_AGENT
+new bloody premium account,CREATE_ACCOUNT
+can you help me create a freemium account?,CREATE_ACCOUNT
+help me open a business account for my dad,CREATE_ACCOUNT
+open a standard account for my dad,CREATE_ACCOUNT
+another platinum account,CREATE_ACCOUNT
+want assistance to open a standard account,CREATE_ACCOUNT
+i have a question about creating a freemium account,CREATE_ACCOUNT
+i need a business account i wanna open it,CREATE_ACCOUNT
+"I haven't signed up yet, I have got to open a pro account",CREATE_ACCOUNT
+I don't know how I can create a standard account for my dad,CREATE_ACCOUNT
+i cannot create a premium account,CREATE_ACCOUNT
+open a standard account,CREATE_ACCOUNT
+"I would like to create a premium account, how can I do it?",CREATE_ACCOUNT
+can you help me create a business account?,CREATE_ACCOUNT
+help me to open a business account for my daughter,CREATE_ACCOUNT
+i need assistance to open a business account for my dad,CREATE_ACCOUNT
+"I do not have a premium account yet, I try to register",CREATE_ACCOUNT
+Iam looking for information about opening a business account,CREATE_ACCOUNT
+problem with creating a gold account,CREATE_ACCOUNT
+assistance with opening a standard account,CREATE_ACCOUNT
+I don't know what I have to do to remove a premium account,DELETE_ACCOUNT
+where can i find information about a premium account deletion,DELETE_ACCOUNT
+closing gold account,DELETE_ACCOUNT
+remove pro account,DELETE_ACCOUNT
+i do not nkow how to delete the business account,DELETE_ACCOUNT
+I have a question about a freemium account cancellation,DELETE_ACCOUNT
+remove business accoint,DELETE_ACCOUNT
+"I have got to close my damn platinum account, I need help",DELETE_ACCOUNT
+closing pro account,DELETE_ACCOUNT
+i do not know what i have to do to close the platinum accont,DELETE_ACCOUNT
+I do not know how I can cancel the pro acconut,DELETE_ACCOUNT
+i want help to close the business account,DELETE_ACCOUNT
+wsnna close a premium account i need assistance,DELETE_ACCOUNT
+I need assistance to remove my freemium account,DELETE_ACCOUNT
+I want assistance deleting a gold account,DELETE_ACCOUNT
+I don't know how to cancel the premium account,DELETE_ACCOUNT
+problems with standard account deletions,DELETE_ACCOUNT
+I do not know what I need to do to close the premium account,DELETE_ACCOUNT
+I am looking for information about my pro account deletion,DELETE_ACCOUNT
+i dont know what i need to do to delete a business account,DELETE_ACCOUNT
+do ya ship toMexico,DELIVERY_OPTIONS
+"I have to see the shipment methods, can you help me?",DELIVERY_OPTIONS
+how to see what shipment options are available?,DELIVERY_OPTIONS
+is it possible to place an order from Manchester?,DELIVERY_OPTIONS
+help checking what shipping options are there,DELIVERY_OPTIONS
+I am calling to check what methods for delivery are there,DELIVERY_OPTIONS
+what options for shipment are available?,DELIVERY_OPTIONS
+I would like to see what goddamn delivery options I have,DELIVERY_OPTIONS
+"I have got to see the delivery methods, how to do it?",DELIVERY_OPTIONS
+i do not know what to do to see the options for shipping,DELIVERY_OPTIONS
+want assistance to see what shipment methods are there,DELIVERY_OPTIONS
+i dont know how i can check what delivery methods i have,DELIVERY_OPTIONS
+can you help me see what shipment methods you offer?,DELIVERY_OPTIONS
+can I place an ordewr from Canada?,DELIVERY_OPTIONS
+how do I check the methods for shipping?,DELIVERY_OPTIONS
+help checking what shipment methods i can choose,DELIVERY_OPTIONS
+find information about the shipment methods,DELIVERY_OPTIONS
+can I order from Manchester?,DELIVERY_OPTIONS
+can I place a bloody order from Manchester?,DELIVERY_OPTIONS
+i do not know what to do to check the shipping options,DELIVERY_OPTIONS
+I am trying to see when will my purchase arrive,DELIVERY_PERIOD
+I don't know how to see when my item is going to arrive,DELIVERY_PERIOD
+where to see how soon can I expect the fucking article?,DELIVERY_PERIOD
+can you help me see when my product is going to arrive?,DELIVERY_PERIOD
+i dont know what to do to see when mt order is gonna arrive,DELIVERY_PERIOD
+cn i see when will my product arrive,DELIVERY_PERIOD
+how can I see how long it takes for the damn item to arrive?,DELIVERY_PERIOD
+"I have to check when will my item arrive, I need assistance",DELIVERY_PERIOD
+help me to check how long it takes for my delivery to arrive,DELIVERY_PERIOD
+ohw do I check how soon can I expect the item?,DELIVERY_PERIOD
+where do I see when my item is going to arrive?,DELIVERY_PERIOD
+help to check how soon can i expect the package,DELIVERY_PERIOD
+want help seeing how soon can i xepect my item,DELIVERY_PERIOD
+I want to check when will my product arrive,DELIVERY_PERIOD
+where do i see when my product is gonna arrive,DELIVERY_PERIOD
+how can i check how long it takes for the delivery to arrive,DELIVERY_PERIOD
+how to see how long it takes for my delivery to arrive?,DELIVERY_PERIOD
+how to check how soon can I expect my parcel?,DELIVERY_PERIOD
+help me check how soon can I expect my delivery,DELIVERY_PERIOD
+where do I see how long it takes for the purchase to arrive?,DELIVERY_PERIOD
+updating info on business account,EDIT_ACCOUNT
+correct information on platinum account,EDIT_ACCOUNT
+modifu details on freemium account,EDIT_ACCOUNT
+need help to modify the details included on my profile,EDIT_ACCOUNT
+correcting details on platinum account,EDIT_ACCOUNT
+updating data on gold account,EDIT_ACCOUNT
+edit data on premium account,EDIT_ACCOUNT
+"I need to modify my damn user profile, how can I do it?",EDIT_ACCOUNT
+update inforemation on business account,EDIT_ACCOUNT
+modifying ddetails on premium account,EDIT_ACCOUNT
+edit business account,EDIT_ACCOUNT
+change info on premium account,EDIT_ACCOUNT
+modifying data on standard account,EDIT_ACCOUNT
+could you help me editing the damn information on my user?,EDIT_ACCOUNT
+correct info onpro account,EDIT_ACCOUNT
+changing info on business account,EDIT_ACCOUNT
+pudate business account,EDIT_ACCOUNT
+edit details on business account,EDIT_ACCOUNT
+correct data on business account,EDIT_ACCOUNT
+correcting details on business account,EDIT_ACCOUNT
+i do not know what to do to download the invoice #85632,GET_INVOICE
+I don't know how I can download bill #37777,GET_INVOICE
+"I need to download my invoice #12588, can you help me?",GET_INVOICE
+what do i have to do to get invoice #37777,GET_INVOICE
+gedtting bill from Alex Morgan,GET_INVOICE
+i dont know how i can get the invoicess from Alex Morgan,GET_INVOICE
+I don't know what I have to do to download bill #12588,GET_INVOICE
+need to download my invoice #37777 will ya help me,GET_INVOICE
+how to get bill #37777,GET_INVOICE
+i do not know how i can download my invoices from Alex Morgan,GET_INVOICE
+I do not know what to do to download my invoice #12588,GET_INVOICE
+I need help getting my bill from Alex Morgan,GET_INVOICE
+will ya mail me my invoice from Alex Morgan,GET_INVOICE
+i dont know what i have to do to download the bill #12588,GET_INVOICE
+can you help me get my invoice #85632?,GET_INVOICE
+I have got to download my invoices from Alex Morgan,GET_INVOICE
+I want to get invoice #00108,GET_INVOICE
+ened assistance downloading the bill from Alex Morgan,GET_INVOICE
+I need assistance to download the invoice #37777,GET_INVOICE
+I want assistance downloading the invoice from Alex Morgan,GET_INVOICE
+I need help getting a rebate of my money,GET_REFUND
+is it possible to get rebates of my money,GET_REFUND
+how can i obtain a compensation of my money,GET_REFUND
+I need assistance to request refunds of my money,GET_REFUND
+can you help me receive refunds of money?,GET_REFUND
+i dont know how i can ask for compensations of money,GET_REFUND
+help receiving a refund of money,GET_REFUND
+refund $40,GET_REFUND
+I want help requesting my money back,GET_REFUND
+i need assistance getting compensations of my money,GET_REFUND
+where to receive restitutions of money,GET_REFUND
+can uhelp em to ask for rebates of money,GET_REFUND
+help to demand reimbursements of money,GET_REFUND
+I would like to get a compensation of my money,GET_REFUND
+i want assistance to receive my money back,GET_REFUND
+"I have paid $40 for this item, how to get my money back?",GET_REFUND
+i have paid $40 for an item help me obtain a refund,GET_REFUND
+I am trying ot get rebates,GET_REFUND
+i do not know what to do to rerquest a compensation of money,GET_REFUND
+i try to demand a reimbursement of my money,GET_REFUND
+I do not know how to sign up to the newsletter,NEWSLETTER_SUBSCRIPTION
+I try to receive your newsletter,NEWSLETTER_SUBSCRIPTION
+I don't know how to subscribe to the newsletter,NEWSLETTER_SUBSCRIPTION
+need help cancelling the newsletter subscription,NEWSLETTER_SUBSCRIPTION
+assistance receiving the company newsletter,NEWSLETTER_SUBSCRIPTION
+help receiving ur corporate newsletter,NEWSLETTER_SUBSCRIPTION
+"I need to unsubscribe from the fucking newsletter, help me",NEWSLETTER_SUBSCRIPTION
+i want information about receiving ur corporate newsletter,NEWSLETTER_SUBSCRIPTION
+need asisstance to cancel my subscription to the newsletter,NEWSLETTER_SUBSCRIPTION
+"I have to unsubscribe from the newsletter, will you help me?",NEWSLETTER_SUBSCRIPTION
+can I sign up to the damn newsletter?,NEWSLETTER_SUBSCRIPTION
+can ya help mereceive ur company newsletter,NEWSLETTER_SUBSCRIPTION
+"I have to sign up to the newsletter, I need help",NEWSLETTER_SUBSCRIPTION
+i want assistznce signing up to ur company newsletter,NEWSLETTER_SUBSCRIPTION
+i need information about receiving ur newsletter,NEWSLETTER_SUBSCRIPTION
+I cannot sign up to your corporate newsledtter,NEWSLETTER_SUBSCRIPTION
+"I want to receive the corporate newsletter, can you help me?",NEWSLETTER_SUBSCRIPTION
+need help unsubscribing from ur newsletter,NEWSLETTER_SUBSCRIPTION
+"I have got to cancel my newsletter subscription, help me",NEWSLETTER_SUBSCRIPTION
+can I unsubscribe from the corporate newsletter?,NEWSLETTER_SUBSCRIPTION
+help me informof errors with online payment,PAYMENT_ISSUE
+need to inform of issues with payment,PAYMENT_ISSUE
+i try to report issues with payments,PAYMENT_ISSUE
+want assistance notifying of errors with payments,PAYMENT_ISSUE
+I ened help reporting problems with payment,PAYMENT_ISSUE
+i need assistance to notify of an issue with online payment,PAYMENT_ISSUE
+i have to report a problem with online payments,PAYMENT_ISSUE
+reporting issue with payments,PAYMENT_ISSUE
+I want assistance to inform of errors with online payment,PAYMENT_ISSUE
+I try to notify of an error with online payment,PAYMENT_ISSUE
+I want assistance notifying of issues with payment,PAYMENT_ISSUE
+can uhelp me to reoort a trouble with payments,PAYMENT_ISSUE
+where can i report issues with payment,PAYMENT_ISSUE
+were do i report troubles with payment,PAYMENT_ISSUE
+I don't know what to do to inform of problems with payment,PAYMENT_ISSUE
+help me reporting an issue wigh online payment,PAYMENT_ISSUE
+I do not know how to infgorm of payment problems,PAYMENT_ISSUE
+I ned assistance solving an error with payments,PAYMENT_ISSUE
+I want assistance solving errors with payments,PAYMENT_ISSUE
+need help to report an issue with payment,PAYMENT_ISSUE
+want help ordering a few ofur article,PLACE_ORDER
+I don't know how I can shop several articles,PLACE_ORDER
+i want assistance to buy a few of ur article,PLACE_ORDER
+I don't know how I can order some of your article,PLACE_ORDER
+I do not know how to earn several of your item,PLACE_ORDER
+I don't know what to do to shop some of your article,PLACE_ORDER
+I don't know what I have to do to order some items,PLACE_ORDER
+help me to buyy something,PLACE_ORDER
+need assistance acquiring an item,PLACE_ORDER
+i need help to purchase a few of ur article,PLACE_ORDER
+is it possible to buy some items?,PLACE_ORDER
+earn some of your article,PLACE_ORDER
+help me to purchase some of your article,PLACE_ORDER
+need to acquire several of ur article,PLACE_ORDER
+I don't know what I have to do to order several products,PLACE_ORDER
+is it possible to shop some of your item?,PLACE_ORDER
+"I want to purchase a few of your item, how do I do it?",PLACE_ORDER
+"I have to buy a fucking article, how to do it?",PLACE_ORDER
+I have to earn several of your product,PLACE_ORDER
+I do not nkow what I have to do to order a few of your item,PLACE_ORDER
+"I lost my account PIN code, assistance to reset it",RECOVER_PASSWORD
+I need help recovering my user key,RECOVER_PASSWORD
+help restoring the password of my user account,RECOVER_PASSWORD
+i have lost my access key can i recover it,RECOVER_PASSWORD
+i need assistance restorng the key of my profile,RECOVER_PASSWORD
+how too recover the key of my user account,RECOVER_PASSWORD
+can I restore my access key?,RECOVER_PASSWORD
+i do not know what to do to retrieve my profile access key,RECOVER_PASSWORD
+could you help me reset the PIN of my user profile?,RECOVER_PASSWORD
+help me reset my profile key,RECOVER_PASSWORD
+i habe a problem with my pin retrieval,RECOVER_PASSWORD
+where can I get information about my forgotten password?,RECOVER_PASSWORD
+can i restoire my pass,RECOVER_PASSWORD
+watn assistance recovering my account pass,RECOVER_PASSWORD
+want assistance to retrieve the pin code of my user profile,RECOVER_PASSWORD
+"someone stole my PIN, I want assistance to restore it",RECOVER_PASSWORD
+I cannot recover my pwd,RECOVER_PASSWORD
+I'm tryimg to reset my user account pin code,RECOVER_PASSWORD
+how to reset my user account key?,RECOVER_PASSWORD
+where do I retrieve my user password?,RECOVER_PASSWORD
+need help reporting a problem with registrations,REGISTRATION_PROBLEMS
+reporting issue opening user profile,REGISTRATION_PROBLEMS
+i have to inform of problems with signup can i get some help,REGISTRATION_PROBLEMS
+inform of errors with signup,REGISTRATION_PROBLEMS
+is it possible to notify of issues with a registration?,REGISTRATION_PROBLEMS
+I need to inform of sign-up issues,REGISTRATION_PROBLEMS
+how could I inform of a sign-up issue?,REGISTRATION_PROBLEMS
+can uhelp me to inform of errors with a sign-up,REGISTRATION_PROBLEMS
+"I can't open a profile, I want to report signup problems",REGISTRATION_PROBLEMS
+what d I have to do to notify of an issue with a signup?,REGISTRATION_PROBLEMS
+can ya help me notify of registration errors,REGISTRATION_PROBLEMS
+"I can't create a user, where to notify of sign-up errors?",REGISTRATION_PROBLEMS
+reporting issue with registration,REGISTRATION_PROBLEMS
+is it possible to inmform of errors with a registration,REGISTRATION_PROBLEMS
+assistance to notify of issues with a sign-up,REGISTRATION_PROBLEMS
+want assistance to report a sign-up error,REGISTRATION_PROBLEMS
+can i inform of sign-up problems,REGISTRATION_PROBLEMS
+"I am experiencing a problem signing up, can I get some help?",REGISTRATION_PROBLEMS
+I am experiencing an problem registering,REGISTRATION_PROBLEMS
+i cant register how to inform of a damn sign-up issue,REGISTRATION_PROBLEMS
+I want assistance to send feedback for your services,REVIEW
+what do I have to do to submit feedback?,REVIEW
+uhave a method to submit feedback for ur services,REVIEW
+can you help me to submit feedback for your company?,REVIEW
+"I would like to submit my feedback about a product, help me",REVIEW
+I want assistance writing a comment about your products,REVIEW
+review for your company,REVIEW
+is it possible to write a review about ur rpoducts,REVIEW
+do uhave a e-mail to leave feedback about ur products,REVIEW
+submit product review,REVIEW
+"I want to write a comment for your products, how do I do it?",REVIEW
+is there a section to leave an opinion about a service?,REVIEW
+I want assistance submitting feedback for your company,REVIEW
+where to leave feedback for a service?,REVIEW
+ya have an address to send some feedback about ur services,REVIEW
+i have to leave a fucking comment could i get some help,REVIEW
+I want help to leave a goddamn comment about your company,REVIEW
+I need help leaving my feedback for your products,REVIEW
+is there an address to leave a comment for a service?,REVIEW
+ya have an address to submit my feedback for ur products,REVIEW
+I want help setting up my secondary delivery address,SET_UP_SHIPPING_ADDRESS
+I need assistance entering a secondary shipping address,SET_UP_SHIPPING_ADDRESS
+I want assistance entering the shipping address,SET_UP_SHIPPING_ADDRESS
+i cant submit myy new shipping address,SET_UP_SHIPPING_ADDRESS
+error entering the new shipping address,SET_UP_SHIPPING_ADDRESS
+I try to submit a different delivery address,SET_UP_SHIPPING_ADDRESS
+their are errors submitting my fucking shipping address,SET_UP_SHIPPING_ADDRESS
+I need help to set my secondary shipping address up,SET_UP_SHIPPING_ADDRESS
+there are errors setting up my secondary delivery address,SET_UP_SHIPPING_ADDRESS
+erorr submitting the new shipping address,SET_UP_SHIPPING_ADDRESS
+troubles setting my secondary delivery address up,SET_UP_SHIPPING_ADDRESS
+can you help me to enter my shipping address ?,SET_UP_SHIPPING_ADDRESS
+is it possible to submit a different delivery address?,SET_UP_SHIPPING_ADDRESS
+there are issues setting up a secondary shipping address,SET_UP_SHIPPING_ADDRESS
+I can't enter my shipping address,SET_UP_SHIPPING_ADDRESS
+"I want to set up a new delivery address, how do I do it?",SET_UP_SHIPPING_ADDRESS
+how do i set up my newshipping address,SET_UP_SHIPPING_ADDRESS
+what do I need to do to submit my shipping address?,SET_UP_SHIPPING_ADDRESS
+I cannot submit a shipping address,SET_UP_SHIPPING_ADDRESS
+i want help to set another shipping address up,SET_UP_SHIPPING_ADDRESS
+is it possible to use the premium profile,SWITCH_ACCOUNT
+i want help to use the premium profile,SWITCH_ACCOUNT
+assistance using the premium profile,SWITCH_ACCOUNT
+i have to use the standard account i need help,SWITCH_ACCOUNT
+how do I change to the standard account?,SWITCH_ACCOUNT
+I want help changing to the business account,SWITCH_ACCOUNT
+I want help to change to the standard account,SWITCH_ACCOUNT
+can ya help me to switch to the standard account,SWITCH_ACCOUNT
+need to change to the premium account how can i do it,SWITCH_ACCOUNT
+can I change to the platinum account?,SWITCH_ACCOUNT
+I don't know how I can change to the freemium account,SWITCH_ACCOUNT
+want help to switch to the freemium account,SWITCH_ACCOUNT
+changing to pro account,SWITCH_ACCOUNT
+using pro accouny,SWITCH_ACCOUNT
+how do i use the standard profile,SWITCH_ACCOUNT
+switch user,SWITCH_ACCOUNT
+where could i switch to the business account,SWITCH_ACCOUNT
+"I want to use the premium profile, how to do it?",SWITCH_ACCOUNT
+I do not know how I can switch to the pro account,SWITCH_ACCOUNT
+help me to change to the gold account,SWITCH_ACCOUNT
+see order 48213 current status,TRACK_ORDER
+i cant see the current status of purchase 48213,TRACK_ORDER
+is it possible to see purchase 48213 status?,TRACK_ORDER
+where can i see the current status of order 48213,TRACK_ORDER
+can you help me to check purchase 48213 status?,TRACK_ORDER
+I need help to see the ETA of purchase 48213,TRACK_ORDER
+assistance to check the eta of order 48213,TRACK_ORDER
+want help seeing purchase 48213 status,TRACK_ORDER
+how can i see the ETA of the purchase 48213,TRACK_ORDER
+wanna see order 48213 status acn ya help me,TRACK_ORDER
+help me checking the status of purchase 48213,TRACK_ORDER
+order 00123842current status,TRACK_ORDER
+help me checking the ETA of purchase 48213,TRACK_ORDER
+need assistance checking the ETA of the purchase 48213,TRACK_ORDER
+what do I need to do to track order 48213?,TRACK_ORDER
+see status of purchase 48213,TRACK_ORDER
+i have to locate purchase 48213 i need assistance,TRACK_ORDER
+how could I see order 48213 status?,TRACK_ORDER
+I have to see purchase 48213 current status,TRACK_ORDER
+i want assistance to see the status of purchase 48213,TRACK_ORDER
+I try to know if there are any updates on my restitution,TRACK_REFUND
+I need assistance seeing my reimbursement current status,TRACK_REFUND
+help me to check if there are nay news on the refund,TRACK_REFUND
+I expect a rebate of 40 dollars,TRACK_REFUND
+where can I know if there is anything new on the refund?,TRACK_REFUND
+know if there is anything wrong with the refund,TRACK_REFUND
+need help to check if there are any news on the restitution,TRACK_REFUND
+help me see the current status of my rebate,TRACK_REFUND
+I'm waiting for a restitution of $40 was it processed,TRACK_REFUND
+I expect a reufnd of $40,TRACK_REFUND
+"I want to see my reimbursement current status, help me",TRACK_REFUND
+I do not know how to check the status of the compensation,TRACK_REFUND
+how to know if there is anything new on the reimbursement,TRACK_REFUND
+anything new on the refund,TRACK_REFUND
+"I am waiting for a refund of $40, was it processed",TRACK_REFUND
+assistance checking the current status of my restitution,TRACK_REFUND
+how do I see if there are any updates on my compensation?,TRACK_REFUND
+I want assistance seeing the damn reimbursement status,TRACK_REFUND
+I need help to check the current status of my refund,TRACK_REFUND
+how can i check the current status of my restitution,TRACK_REFUND

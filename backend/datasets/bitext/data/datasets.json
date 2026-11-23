@@ -1,0 +1,26 @@
+[
+  {
+    "key": "dev",
+    "name": "Bitext dev set",
+    "filename": "bitext_dev_queries.csv",
+    "labeled": true
+  },
+  {
+    "key": "holdout",
+    "name": "Bitext held-out",
+    "filename": "bitext_test_queries.csv",
+    "labeled": true
+  },
+  {
+    "key": "unrelated",
+    "name": "Unrelated queries",
+    "filename": "semantic_faq_no_match_test_queries.csv",
+    "labeled": false
+  },
+  {
+    "key": "holdout_unrelated",
+    "name": "Held-out unrelated",
+    "filename": "semantic_faq_holdout_no_match_queries.csv",
+    "labeled": false
+  }
+]

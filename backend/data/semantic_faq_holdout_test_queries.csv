@@ -1,0 +1,691 @@
+user_query,expected_faq_id
+where in my account do I go to follow a shipment,ORD001
+steps to see the delivery progress of something I ordered,ORD001
+where's my package at this exact moment,ORD002
+what is the current location of my box,ORD002
+lost the courier reference number for my package,ORD003
+where do I get the shipment code to follow it on the carrier site,ORD003
+tracking hasn't moved in 4 days,ORD004
+"shipment info stuck on the same update since monday, is something wrong",ORD004
+app says it was dropped off but nothing at my door,ORD005
+marked as handed over yet I never got the box,ORD005
+"I checked out as a guest, how do I follow my shipment",ORD006
+"no login on your site, still want to see where my package is",ORD006
+is my latest purchase processed yet,ORD007
+what stage is the thing I bought yesterday at,ORD007
+"status changed to shipped, what does that actually mean",ORD008
+what's the meaning of the shipped label on my order,ORD008
+"my package is on the van today, does that mean I get it today",ORD009
+"status says it's with the driver for today's run, what does that mean",ORD009
+how do I sign up for SMS updates as my shipment moves along,ORD010
+turn on alerts for every step of my package's journey,ORD010
+steps to start a return,RET001
+"I want to return my shoes, how do I do it",RET001
+is it possible to give back an item I purchased,RET002
+can stuff I bought from you be sent back,RET002
+what's the time limit for sending something back,RET003
+how long after delivery can I still return it,RET003
+"already took it out and tried it once, can I still return it",RET004
+"used it one time, is it still returnable",RET004
+"threw away the box it came in, can I still return",RET005
+does the return need the original carton,RET005
+where do I get the shipping slip to stick on my return parcel,RET006
+need to print the sticker for sending back my item,RET006
+can I swap this for a different colour instead of getting my money back,RET007
+"want a different size rather than a refund, can I swap it",RET007
+"you denied my return, what now",RET008
+"return got declined, how do I appeal",RET008
+"someone gave me a present I don't want, can I send it back",RET009
+"got this as a birthday present, can it be returned",RET009
+how do I know if this thing is eligible to go back,RET010
+where can I see if my item is one that can be returned,RET010
+how many days until a refund shows up,REF001
+typical processing time for getting refunded,REF001
+when do I get my cash back,REF002
+when is the money coming back to me,REF002
+where do I see if my refund has been processed,REF003
+refund status page?,REF003
+refund says approved but nothing in my bank,REF004
+they approved my refund last week but I haven't seen the money,REF004
+will the money go back on the card I used,REF005
+refund to the same card I paid with?,REF005
+I changed my mind and want to withdraw my refund request,REF006
+can I take back the refund I asked for,REF006
+"the refunded figure doesn't match what I was expecting, why",REF007
+refund total seems wrong to me,REF007
+"I cancelled my order, will I get my money back",REF008
+"cancelled before it shipped, do I get refunded",REF008
+"refund is past the promised date, what do I do",REF009
+it's been longer than the stated time and still no refund,REF009
+do I get the delivery fee back when I return something,REF010
+is the postage I paid included in the refund,REF010
+what ways can I pay,PAY001
+which payment options do you accept,PAY001
+card got rejected at checkout,PAY002
+why won't my payment go through,PAY002
+do you take amex,PAY003
+can i use my mastercard credit card,PAY003
+do you accept visa debit,PAY004
+can I pay straight from my bank card,PAY004
+can I pay the courier in cash when it arrives,PAY005
+pay at the door possible?,PAY005
+I see the same charge two times on my statement,PAY006
+got billed double for a single purchase,PAY006
+where do I enter a discount code,PAY007
+where to put my voucher code at checkout,PAY007
+my discount code says invalid,PAY008
+voucher isn't being accepted at checkout,PAY008
+I paid by card but want to switch to paypal for the order I already placed,PAY009
+can I swap payment type after checkout,PAY009
+is it safe to save my card details on your site,PAY010
+how do you protect my card info,PAY010
+how do I sign up,ACC001
+want to register as a new customer,ACC001
+can't remember my password,ACC002
+lost my login password and need a new one,ACC002
+want to use a different email for my account,ACC003
+switch the email on my profile,ACC003
+"got a new mobile number, how to update it",ACC004
+change the phone linked to my profile,ACC004
+unable to get into my account,ACC005
+"login keeps failing, what do I do",ACC005
+close my account permanently,ACC006
+how to remove my profile for good,ACC006
+"I moved house, how do I update the saved address in my account",ACC007
+edit the home address stored in my profile,ACC007
+can I save both my home and work addresses,ACC008
+add a second address to my account,ACC008
+stop sending me marketing emails,ACC009
+"too many newsletters, how do I opt out",ACC009
+the OTP never arrived,ACC010
+waiting for the sign-up code by SMS but nothing came,ACC010
+how many days until my stuff arrives,DEL001
+when should I expect my order to show up,DEL001
+"already ordered but put the wrong address, can I fix it",DEL002
+"need my order sent somewhere else, I've already paid",DEL002
+can I pick a time slot for the drop-off,DEL003
+"want it delivered in the evening, can I schedule that",DEL003
+"I'll be at work when it arrives, what happens",DEL004
+nobody will be home on delivery day,DEL004
+my order should have arrived yesterday,DEL005
+package is past the expected date,DEL005
+do you ship to my postcode,DEL006
+do you cover my pincode,DEL006
+want to tell the driver to leave it with the neighbour,DEL007
+add a note for the courier with my gate code,DEL007
+will I get a message on the day it's being dropped off,DEL008
+do you notify me when the package arrives at my door,DEL008
+"tracking shows the delivery attempt failed, why",DEL009
+"driver couldn't complete the drop-off, what's the reason",DEL009
+can I pick it up from a store myself,DEL010
+is there a click and collect option,DEL010
+where can I see the technical details of a laptop,PRD001
+need the dimensions and specs of this item,PRD001
+does this jacket come in XL,PRD002
+is there a larger option of this shirt,PRD002
+is this still available or sold out,PRD003
+how do I see if you have this item ready to buy,PRD003
+"sold out, when will it be back",PRD004
+will you get more of this item,PRD004
+how do I put two items side by side,PRD005
+what's the best way to weigh up two similar models,PRD005
+does this blender have a guarantee,PRD006
+is there any manufacturer cover with this item,PRD006
+does it come with a charger,PRD007
+what accessories are packed with it,PRD007
+will this case fit my iphone 15,PRD008
+is this charger compatible with my laptop,PRD008
+"not sure which one to buy, can someone recommend",PRD009
+need advice picking a laptop under 800,PRD009
+the colour looked different in the photo,PRD010
+are the pictures accurate to the real product,PRD010
+how do I get in touch with you,SUP001
+contact number for help,SUP001
+what time does your support team open,SUP002
+are you available on weekends,SUP002
+how do I lodge a complaint,SUP003
+I'm unhappy with the service and want to complain,SUP003
+any update on the issue I raised,SUP004
+check progress of my support case,SUP004
+emailed support 3 days ago and nobody answered,SUP005
+no response to my query yet,SUP005
+what details do I need to give support,SUP006
+what should I mention when I message the help team,SUP006
+I want to talk to a real person,SUP007
+"stop the bot, I need a person",SUP007
+item arrived broken,SUP008
+the screen was cracked straight out of the box,SUP008
+one thing was missing from my parcel,SUP009
+box came without the second item I ordered,SUP009
+where is the FAQ section,SUP010
+can't find the support page in the app,SUP010
+tips to protect my account,SEC001
+how to make my login safer,SEC001
+I think someone hacked my account,SEC002
+"there are orders I didn't make, someone got into my account",SEC002
+I know my current password but want a new one,SEC003
+update my login password,SEC003
+"support asked for the code sent to my phone, should I give it",SEC004
+is it ok to tell an agent my OTP,SEC004
+where can I manage what data you collect about me,SEC005
+control my data sharing settings,SEC005
+got a weird email pretending to be you,SEC006
+"phishing email received, where do I report it",SEC006
+delete my saved card,SEC007
+remove an old card from my profile,SEC007
+why do you keep asking me to confirm who I am,SEC008
+why is the site asking for ID verification,SEC008
+"new here, how do I navigate the site",GEN001
+how does shopping on this site work,GEN001
+where can I read all your store rules,GEN002
+where are your shipping and returns rules written down,GEN002
+how do I rate the item I bought,GEN003
+want to write a review for a product,GEN003
+"I made a typo in my review, can I change it",GEN004
+update my product rating after posting,GEN004
+the product description on your site is wrong,GEN005
+"listing says 64GB but it's actually 32GB, how do I report that",GEN005
+any discount for my first order,GEN006
+new customer coupon?,GEN006
+what deals are running right now,GEN007
+where can I see current sales,GEN007
+I want to share thoughts on how my shopping went,GEN008
+where do I leave feedback about the site experience,GEN008
+link to your terms of service,GEN009
+where's the legal terms document,GEN009
+alert me when new arrivals drop,GEN010
+how do I hear about new launches,GEN010
+I want to cancel what I ordered,ORD011
+stop my order before it ships,ORD011
+"forgot to put something in my order, can I add it",ORD012
+remove one product from an order I already placed,ORD012
+never got the email confirming my purchase,ORD013
+no confirmation mail after checkout,ORD013
+see my order history,ORD014
+where are my old purchases from last year,ORD014
+you cancelled my order without me asking,ORD015
+"order got cancelled on its own, why",ORD015
+I want 3 instead of 2 of the same thing in my order,ORD016
+can I bump up the number of units I ordered,ORD016
+who pays postage when I send back an item,RET011
+is sending a return free or do i pay the courier myself,RET011
+you sent me the wrong product,RET012
+"ordered a blue kettle and got a toaster, how do I send it back",RET012
+has my returned parcel reached your warehouse yet,RET013
+where's my return package now,RET013
+can I get credit on my account instead of cash back,REF011
+prefer a store balance rather than money back for my return,REF011
+only got money back for part of my order,REF012
+why was only some of my money returned,REF012
+can I spread the payment over a few months,PAY011
+do you offer EMI options,PAY011
+need a bill for my purchase for an expense claim,PAY012
+where do I get a receipt PDF for my order,PAY012
+money debited but checkout failed,PAY013
+bank took the money but no order shows up,PAY013
+can I pay with my US card from abroad,PAY014
+do you accept payment in euros,PAY014
+my name is spelled wrong on my account,ACC011
+update the name shown on my profile,ACC011
+it says my account is temporarily blocked after too many tries,ACC012
+"account frozen, how do I get back in",ACC012
+can I log in with my gmail,ACC013
+is there sign in with apple id,ACC013
+do you send orders to Canada,DEL011
+can I order from overseas,DEL011
+what are the delivery charges,DEL012
+how much is postage,DEL012
+can I get it by tomorrow,DEL013
+"need it today, any faster option",DEL013
+why did my items come in separate boxes on different days,DEL014
+"got two parcels for one order, why",DEL014
+how do I know what shoe size to order,PRD011
+where's the size chart,PRD011
+"the price went down right after I bought it, can I get the difference",PRD012
+do you match competitor prices,PRD012
+can I chat online with someone,SUP011
+is there instant messaging support,SUP011
+"my complaint still isn't solved, I need it taken to a manager",SUP012
+"ticket going nowhere, want a supervisor",SUP012
+how do I enable 2FA,SEC009
+set up login codes with an authenticator app,SEC009
+"got a phone call from someone saying they're your staff, is it a scam",SEC010
+caller says he's from your company and wants my card details,SEC010
+do you have an app for iphone,GEN011
+is there an android app,GEN011
+I want to buy 200 units for my company,GEN012
+do you do wholesale orders,GEN012
+buy an e-gift card for my sister,GFT001
+how do I send someone a gift card for their birthday,GFT001
+how do I use the gift card I received,GFT002
+add a gift card to my wallet balance,GFT002
+how much is left on my gift card,GFT003
+check remaining value on my gift voucher,GFT003
+is there an expiry on gift cards,GFT004
+how long is a gift card valid for,GFT004
+gift card code says invalid,GFT005
+my gift voucher won't apply at checkout,GFT005
+can I combine two gift cards on one purchase,GFT006
+use multiple gift cards together,GFT006
+what do I get if I join premium,MEM001
+perks of being a member,MEM001
+I want to quit the membership entirely,MEM002
+end my paid membership plan,MEM002
+can I try the membership for free first,MEM003
+is there a trial period for premium,MEM003
+why was my card charged for membership again,MEM004
+unexpected yearly membership charge,MEM004
+can I get my membership money back,MEM005
+want my subscription fee refunded,MEM005
+stop the membership from renewing automatically,MEM006
+disable automatic renewal but keep it until the end of the period,MEM006
+how do I file a claim under guarantee,WAR001
+"my product is faulty and still covered, how do I claim",WAR001
+"my headphones died, can you fix them",WAR002
+"speaker stopped working, any repair option",WAR002
+how many years of coverage does the guarantee give,WAR003
+length of warranty on this TV,WAR003
+can I add an extra protection plan,WAR004
+buy additional years of coverage,WAR004
+where can I get my phone serviced nearby,WAR005
+closest authorised repair shop,WAR005
+how do I collect points when I shop,RWD001
+how do loyalty points get earned,RWD001
+spend my points on an order,RWD002
+redeem loyalty points at checkout,RWD002
+will my points run out,RWD003
+do loyalty points have an end date,RWD003
+points didn't show up after my purchase,RWD004
+my loyalty points are missing,RWD004
+how does invite a friend work,RWD005
+get rewarded for referring friends,RWD005
+courier website says no results for the tracking code you sent me,ORD017
+"tracking id not recognised by the carrier, is it wrong?",ORD017
+tracking now says my parcel is heading back to the shipper?? why,ORD018
+package going back to the warehouse instead of coming to me,ORD018
+"already checked out with standard shipping, can I pay extra now to get it quicker",ORD019
+switch my existing order to express,ORD019
+"want to buy the exact same thing I got last month again, quickest way?",ORD020
+repeat a previous purchase,ORD020
+can i send back only 1 of the 3 things in my order and keep the rest,RET014
+returning part of an order not the whole thing,RET014
+can a courier come collect the stuff im sending back from my house,RET015
+"return collection from home, possible?",RET015
+"got it cheap in the clearance sale, can I still send it back",RET016
+are marked down items returnable,RET016
+"my 30 days ran out 2 days ago, too late to send it back?",RET017
+"missed the cutoff for returning, am I out of luck",RET017
+"paid using gift card balance, where does the money go when I return it",REF013
+refund on order bought with giftcard,REF013
+"the card I paid with got cancelled by my bank, how will the refund reach me",REF014
+refund going to a card that's expired now,REF014
+"paid the delivery guy in cash, how do I get my money back after returning",REF015
+refund for COD order how,REF015
+"used a discount code then returned one item, do I lose the discount",REF016
+will my promo code be reusable if I send the order back,REF016
+need my company GST number printed on the bill,PAY015
+can the receipt show my business name for expense claims,PAY015
+card payment stuck on a bank security screen asking me to approve in my banking app,PAY016
+why does my bank pop up 3D secure every time i buy something here,PAY016
+pay half with one card and half with another,PAY017
+use two different credit cards for one purchase,PAY017
+"item says 499 but at checkout it's 560, why",PAY018
+extra fees added at checkout that I didn't expect,PAY018
+bookmark products I like to buy later,ACC014
+how to heart an item so I can come back to it,ACC014
+delete my recently viewed products,ACC015
+wipe the stuff i searched for,ACC015
+"I have 2 accounts with different emails, can they be combined into one",ACC016
+combine my old profile and new profile,ACC016
+I deactivated my profile a while back and now want to use it again,ACC017
+bring back my account that I switched off last year,ACC017
+can my neighbour accept the parcel for me,DEL015
+can my husband sign for the package if I'm at work,DEL015
+ship to my post office box?,DEL016
+send it to a locker near my office instead of home,DEL016
+card is registered at my parents' house but I want it shipped to my flat,DEL017
+different billing and shipping address ok?,DEL017
+do you deliver on sundays,DEL018
+will my package still come during the christmas holidays,DEL018
+are these real brand items or fakes,PRD013
+"worried this might be counterfeit, is your stuff authentic",PRD013
+is there a max qty I can order of one thing,PRD016
+can I buy 20 of these or is there a cap,PRD016
+can someone from support ring me back,SUP013
+rather you call me than me waiting on hold,SUP013
+do you have support in spanish,SUP014
+"need help in hindi, possible?",SUP014
+"ticket got marked resolved but the problem isn't fixed, can I open it up again",SUP015
+continue a case that was already closed,SUP015
+"found a bug on your website, who do I tell",SUP016
+"checkout page glitching on my browser, where do I send details",SUP016
+download all the info you hold about me,SEC011
+GDPR request for my data,SEC011
+"logged in on a library computer and forgot to log out, can I end that remotely",SEC012
+kick every session off my account at once,SEC012
+how do i turn off tracking cookies,SEC013
+change which cookies the site uses,SEC013
+do you sell my info to advertisers,SEC014
+who else gets my personal details,SEC014
+switch site to french,GEN013
+"page is showing in german, how do I get it back to english",GEN013
+stuff I added to my basket is gone,GEN015
+items vanished from my shopping bag,GEN015
+can I cash out my gift card,GFT007
+turn a giftcard into real money,GFT007
+lost the gift card my aunt gave me,GFT008
+"someone stole my gift card, can it be blocked",GFT008
+"want the digital gift card to land on my friend's birthday next week, can i set that",GFT009
+choose a future date for an e-voucher to be sent,GFT009
+friend never got the gift card email I sent,GFT010
+"bought my sister a digital gift card, she says nothing showed up",GFT010
+move from monthly to yearly membership,MEM007
+switch to the annual plan,MEM007
+can my wife use my membership perks too,MEM008
+add my household to my membership,MEM008
+"got a new card, how do I change the one my membership charges",MEM009
+membership payment card update,MEM009
+I'm a member but still got charged shipping on this order,MEM010
+member discount didn't kick in at checkout,MEM010
+"dropped my phone and cracked it, will warranty fix it",WAR006
+"spilled coffee on the laptop, covered?",WAR006
+"sent my device off to be fixed, how do I see where it's at",WAR007
+any update on my repair job,WAR007
+will they just give me a new one rather than fixing it,WAR008
+I'd prefer a new unit instead of having mine fixed,WAR008
+"got the screen fixed at a local shop, is warranty still valid",WAR009
+if a random phone shop opens it up do I lose coverage,WAR009
+give my points to my brother,RWD006
+move points between two accounts,RWD006
+"sent an order back, what happens to the points I got for it",RWD007
+will points get taken off after I return something,RWD007
+use points plus a promo code together,RWD008
+combine a coupon with my rewards,RWD008
+how many points do I have,RWD009
+see my points earned and spent,RWD009
+"blind user here, does your site work with JAWS",ACS001
+is the site usable with VoiceOver,ACS001
+"my visual impairment makes ordering hard, can someone assist me buying",ACS002
+need someone to walk me through checkout due to a disability,ACS002
+need my receipt in large print,ACS003
+braille version of my invoice?,ACS003
+"I can't hear, how do I contact you without calling",ACS004
+"deaf customer, need text-only support",ACS004
+"your site isn't keyboard navigable, where do I flag that",ACS005
+"buttons have no labels for assistive tech, want to report it",ACS005
+can't download the app on my android,APP001
+"app won't install, says not compatible with my phone",APP001
+app signs me out every time I close it,APP002
+keep getting kicked out of the app,APP002
+app freezes on the home screen,APP003
+app shuts down as soon as I open it,APP003
+stop the app sending me alerts,APP004
+"too many pop up messages from the app on my phone, how to turn them off",APP004
+how to get the newest version of the app,APP005
+"app says it's outdated, how do I upgrade",APP005
+price on the phone app is cheaper than on the desktop site,APP006
+why is the cost different in the app vs browser,APP006
+use my phone camera to look up a product code in store,APP007
+scan the code on a box to find the item,APP007
+app not loading on slow mobile data,APP008
+does the app work offline,APP008
+lost the instructions to put together my bookshelf,INS001
+"how do I build the bed frame, no guide in the box",INS001
+few bolts missing from my wardrobe kit,INS002
+desk arrived without some of the pieces needed to build it,INS002
+"want someone to come fit my AC unit, how do I arrange that",INS003
+book a technician to set up my dishwasher,INS003
+is fitting free or do I pay extra,INS004
+how much do you charge to install,INS004
+need to move my installer visit to another day,INS005
+change the date of the technician appointment,INS005
+can your team hang my television on the wall,INS006
+TV bracket mounting service?,INS006
+how will the fridge be brought in and set up,INS007
+"what to expect when the big washing machine arrives, do they install it",INS007
+how do I order something that isn't released yet,PRE001
+reserve the upcoming console before launch,PRE001
+when does my card get charged for something I reserved before launch,PRE002
+do you take the money now or at release for preorders,PRE002
+"launch got pushed back for the game I reserved, what now",PRE003
+preordered item delayed,PRE003
+don't want my preorder anymore,PRE004
+how to back out of a preorder,PRE004
+"preordered item is now cheaper, do I get the lower price",PRE005
+cost dropped before launch on something I reserved,PRE005
+when will my preordered item actually arrive,PRE006
+preorder - when does it get to me,PRE006
+set up repeat deliveries of diapers every month,SUB001
+how do automatic recurring orders work,SUB001
+deliver my coffee every 2 months instead of every month,SUB002
+change how frequently my repeat shipment comes,SUB002
+skip next month's automatic shipment,SUB003
+hold off just one delivery of my recurring order,SUB003
+stop my recurring delivery for good,SUB004
+end automatic reorders of dog food,SUB004
+how much discount do I get on repeat deliveries,SUB005
+is it cheaper to sign up for regular scheduled orders,SUB005
+add another product to my monthly auto shipment,SUB006
+change number of packs in my recurring order,SUB006
+"just got my new gadget, how do I get it started",TEC001
+first time setup for the smart speaker I bought,TEC001
+brand new device won't power on,TEC002
+"it's dead out of the box, no lights at all",TEC002
+pair the headphones with my phone,TEC003
+can't get it onto my home network,TEC003
+how to install the latest firmware on my smartwatch,TEC004
+"device needs a software update, how",TEC004
+battery isn't going up when plugged in,TEC005
+the phone I bought won't charge,TEC005
+lost the user guide for my camera,TEC006
+where's the pdf booklet for my headphones,TEC006
+wipe my device back to how it came,TEC007
+restore original settings before I sell it,TEC007
+"bought antivirus, where is my license code",TEC008
+where's the product key for the program I purchased,TEC008
+send my saved list of stuff to my mum so she knows what to get me,ACC018
+can other people see my wish list if i give them a link,ACC018
+do i have to make an account just to buy one thing,ACC019
+buy without registering?,ACC019
+"I moved abroad, how do I switch my account to the new country so I see local stuff",ACC020
+"account set to wrong region, prices showing in another market",ACC020
+"font on your site is too small for me to read, can i make it bigger",ACS006
+"is there a high contrast option, I have low vision",ACS006
+"I use a wheelchair, can the driver carry the box into my flat instead of leaving it at the door",ACS007
+need the delivery person to bring it indoors bc of my mobility issues,ACS007
+"the demo videos on product pages, are there subtitles",ACS008
+"im deaf, is there a written version of the product video",ACS008
+use face id to log into the app instead of typing password,APP009
+fingerprint login on android app?,APP009
+why does your app want to know where i am,APP010
+"app keeps asking permission for gps, do i have to allow it",APP010
+"app is too bright at night, any black theme?",APP011
+night theme for the shopping app,APP011
+will the courier make me show my passport when the parcel comes,DEL019
+do i have to be there to sign when it gets delivered,DEL019
+"want to ask something about a blender before I order it, where do i post questions",GEN016
+where can I ask other buyers or the seller about an item I'm thinking of getting,GEN016
+"there's a review on a product that's clearly paid/bogus, how do I flag it",GEN017
+"someone left a fake 5 star review, want to report it",GEN017
+add to basket button doesnt do anything,GEN018
+trying to put a lamp in my basket but it won't let me,GEN018
+can i put more money on my existing gift card,GFT011
+add funds to gift card balance,GFT011
+"buying an emailed gift voucher for my friend, can i write a note with it",GFT012
+include a happy birthday note on the digital gift card I'm sending,GFT012
+is there anything i'm not allowed to spend my gift card on,GFT013
+"tried to pay for a subscription with my gift card balance and it didn't work, are some things excluded",GFT013
+"fitter coming tomorrow to put in my dishwasher, anything I should get ready",INS008
+how do i prep my kitchen before the guy comes to install the oven,INS008
+how many hours should i block off for the washing machine install,INS009
+roughly how long is the technician going to be at my house,INS009
+the installer scratched my floor while fitting the fridge,INS010
+"your technician cracked the wall putting up my TV, what now",INS010
+can i freeze my membership for a couple months while i'm travelling,MEM011
+put membership on hold instead of quitting,MEM011
+any cheaper membership for uni students,MEM012
+do you do discounted plans for students or low income,MEM012
+"I cancelled my membership last year, can I sign back up",MEM013
+"want to come back as a member after leaving, is that allowed",MEM013
+"I made two orders an hour apart, can you ship them in one box",ORD021
+merge my 2 orders together so it comes in one delivery,ORD021
+"accidentally bought the same thing twice, clicked checkout two times",ORD022
+"duplicate order by mistake, i only want one",ORD022
+"forgot to enter my discount code before paying, can it still be added",ORD023
+"just found a promo code after I checked out, can you apply it now",ORD023
+"order has said processing for 4 days, hasn't shipped",ORD024
+why is my order stuck on processing,ORD024
+who is the delivery company for my parcel,ORD025
+"which shipping company has my package, dhl or ups?",ORD025
+"tracking says exception, what does that mean",ORD026
+"my parcel status shows an exception, is it lost?",ORD026
+can i store my card details so i don't have to type them every time,PAY019
+remember my visa for next time i buy,PAY019
+can my dad pay for my order with his card,PAY020
+"want my partner to cover the payment, can I send them something to pay",PAY020
+order says on hold pending payment review,PAY021
+why is my purchase being reviewed for fraud before it ships,PAY021
+"how do i wash this sweater, can it go in the dryer",PRD017
+where are the laundering instructions for the duvet I bought,PRD017
+is this laptop brand new or refurbished?,PRD018
+how can i tell if an item is open box or used before buying,PRD018
+is this lego set ok for a 3 year old,PRD019
+what age is this toy recommended for,PRD019
+"if i buy a preorder game and a controller that's in stock in the same checkout, when does the controller come",PRE007
+can i mix in-stock things with a pre-release item in one order,PRE007
+my card runs out next month but my preorder doesn't release till later,PRE008
+"card on my preorder is expiring, how do i swap it before they charge",PRE008
+if the console sells out will my preorder still be honoured,PRE009
+is a reserved preorder definitely going to be filled or can it get cancelled if they run short,PRE009
+"can i just get my money back without sending it back, it's broken and cheap",REF017
+do i have to post the item back to get refunded or can you just refund it,REF017
+"I paid with klarna in 3 payments and returned it, how does the refund work",REF018
+"returned something I was paying off monthly, what happens to the remaining payments",REF018
+"my parcel came 2 weeks late, can i get something for the trouble",REF019
+"paid for express and it arrived a week late, any compensation?",REF019
+can i take back something i ordered online to one of your shops,RET018
+drop my web order return at a store near me?,RET018
+"bought from a marketplace seller not you directly, how do returns work",RET019
+"item was sold by another vendor on your site, can I still send it back",RET019
+oops i put the wrong thing in my return package,RET020
+packed my own headphones in the return box instead of the ones I bought,RET020
+is there a gold/silver level in your loyalty scheme,RWD010
+how do i move up to the next status level for points,RWD010
+how do I sign up for your loyalty points scheme,RWD011
+how to become a rewards member,RWD011
+can i earn points by writing reviews,RWD012
+ways to get loyalty points without spending money,RWD012
+stop showing me ads based on what I browse,SEC015
+"i don't want tailored product suggestions, how do i switch that off",SEC015
+got an email saying thanks for your order but I never ordered anything,SEC016
+received an order confirmation for a phone I didn't buy,SEC016
+is this instagram store with 90% off actually you or a scam,SEC017
+how do i know a site claiming to be your shop is legit,SEC017
+what if my repeat delivery item isn't in stock that month,SUB007
+"my subscription coffee is unavailable, does the whole subscription get cancelled",SUB007
+does my subscribe discount price stay the same forever,SUB008
+will the price of my repeat deliveries go up,SUB008
+"moving house, how do i update where my recurring deliveries go",SUB009
+change shipping address on my subscribe & save,SUB009
+can I get a transcript of my chat with the agent,SUP017
+want a record of the live chat conversation i just had,SUP017
+can i message you on twitter or facebook for help,SUP018
+do you answer customer queries on instagram DMs,SUP018
+"bought a kettle at a different shop, can you help me with it",SUP019
+can your support help with something i didn't buy from you,SUP019
+"my new tablet gets really warm when charging, should i worry",TEC009
+"laptop is overheating, is it faulty",TEC009
+how do i move my photos and contacts to my new phone,TEC010
+copy everything from old tablet to the new one,TEC010
+screen doesn't react when i tap it,TEC011
+buttons on my new speaker aren't doing anything when I press them,TEC011
+"threw away the receipt, can I still claim under warranty",WAR010
+"no proof of purchase, will warranty still work",WAR010
+if i sell my used tv does the guarantee go to the new owner,WAR011
+"gave my laptop to my son, is the warranty still valid for him",WAR011
+do i have to pay postage to send my broken item for repair,WAR012
+who covers courier costs to the repair centre,WAR012
+will there be import tax ordering to canada,INT001
+do I have to pay duty on stuff shipped to the uk from overseas,INT001
+are duties prepaid or will the courier ask me for money when it arrives,INT002
+is the import fee already in my total or do i pay it at the door,INT002
+my package is stuck in customs for a week,INT003
+"parcel being held by customs, what do i do",INT003
+"I live abroad, how do I send back an item that was shipped to me overseas",INT004
+"returning something from outside the country, how does it work",INT004
+why does it say this item can't be sent to my country,INT005
+"some products won't ship to australia, why",INT005
+"ordering from abroad, will I be billed in dollars or my local money",INT006
+what currency will my card be charged in if i order from overseas,INT006
+tracking stopped updating once my parcel left the country,INT007
+how to follow my overseas shipment once it's handed to the local post,INT007
+do i need to give any paperwork for customs,INT008
+"customs is asking for my tax id number for my order, is that normal",INT008
+when is your next big sale,PRO001
+what time of year do you usually have major discounts,PRO001
+"the lightning deal ran out before i could checkout, can i still get that price",PRO002
+missed the limited time deal because stock ran out,PRO002
+"I bought a coat 3 days before the sale started, can I get the difference",PRO003
+"my order was placed just before the discount event began, can i get the sale price",PRO003
+can i stack two discount codes,PRO004
+can i use the 10% off welcome offer and the free shipping promo together,PRO004
+the free tote bag that was supposed to come with my order didn't arrive,PRO005
+promo said buy 2 get a free gift but there was no freebie in my order,PRO005
+what are the usual rules or fine print on your offers,PRO006
+are there restrictions like minimum spend on your deals,PRO006
+"tv was listed for $9 by mistake, will you still send it",PRO007
+"price was obviously a glitch when I ordered, will my order go through",PRO007
+does my promo code work on clearance stuff,PRO008
+can i use a voucher on discounted items too,PRO008
+how many days do i have to grab my parcel from the collection point,PUP001
+how long will the shop hold my package before sending it back,PUP001
+what do i need to show to collect my parcel at the drop off shop,PUP002
+do i need id to pick up from the parcel shop,PUP002
+the locker won't open with my code,PUP003
+parcel locker pin isn't working,PUP003
+went to collect my package but the collection shop was shut,PUP004
+"my pickup location is closed, how do i get my parcel",PUP004
+"chose the wrong collection point, can i switch it",PUP005
+want to pick up at a different shop than the one I chose,PUP005
+"didn't get to the collection point in time and it's being sent back, do I get my money back",PUP006
+"missed pickup deadline, parcel returned, refund?",PUP006
+where do i find the ebook i just bought,DIG001
+paid for software download but can't see where to get it,DIG001
+the download link in my email says expired,DIG002
+"link to get my file doesn't work anymore, timed out",DIG002
+how many times can I download the album I bought,DIG003
+is there a max number of downloads for my purchase,DIG003
+can I get my money back on an ebook I downloaded,DIG004
+"bought a game code by mistake, refund possible?",DIG004
+"is the ebook epub or pdf, can i read it on kindle",DIG005
+what file type are your e-books and which readers do they work on,DIG005
+can't watch the online course i paid for,DIG006
+"my streaming access isn't working, it says no access",DIG006
+can I give my sister access to an ebook I bought,DIG007
+can my family use the digital album I purchased on their accounts,DIG007
+"got a new laptop, how do I get my purchased ebooks on it",DIG008
+reinstall my bought downloads on a different phone,DIG008
+how do I find out if my space heater has been recalled,SAF001
+is there a list of recalled products i can search,SAF001
+"got a recall notice for my kettle, now what",SAF002
+"the stroller i own was recalled, what should i do",SAF002
+does this charger have CE or UL certification,SAF003
+is this car seat certified to safety standards,SAF003
+does this snack contain nuts,SAF004
+"what is this jacket made of, I'm allergic to wool",SAF004
+"my heater started sparking, I think it's dangerous",SAF005
+want to report a product that seems like a fire hazard,SAF005
+can you ship lithium batteries to me,SAF006
+why can't I get express on aerosol spray,SAF006
+want to send a present straight to my friend's house,GOR001
+ship to my brother's address as a gift instead of mine,GOR001
+can i put a note in the box with my order since it's a present,GOR002
+include a little card saying happy anniversary with the parcel,GOR002
+don't want the price to show in the box I'm sending as a present,GOR003
+remove cost from the invoice inside the package since it's for someone else,GOR003
+how do i get a receipt for the present without the price on it,GOR004
+need a gift receipt so my friend can swap it,GOR004
+will this get there before my mom's birthday on friday,GOR005
+need the present to arrive by a specific date,GOR005
+"my niece needs a bigger size of the jacket I sent her, can she swap it",GOR006
+"the person I gave this to wants it in blue instead, can they exchange it",GOR006
